@@ -1,0 +1,25 @@
+name: Update dashboard feed
+on:
+  schedule:
+    - cron: '30 21 * * 1-5'   # ~4:30-5:30 pm ET, after US close
+    - cron: '0 12 * * 1-5'    # morning run for overnight news and filings
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/update.mjs
+        env:
+          SEC_UA: ${{ secrets.SEC_UA }}
+      - run: |
+          git config user.name "feed-bot"
+          git config user.email "feed-bot@users.noreply.github.com"
+          git add data/feed.json
+          git diff --staged --quiet || git commit -m "Update feed $(date -u +%F)"
+          git push
