@@ -43,8 +43,23 @@ async function earnings(sym, auth) {
 async function prices(sym) {
   const p1 = Math.floor(Date.UTC(2026, 5, 8) / 1000), p2 = Math.floor(Date.now() / 1000) + 86400;
   const j = await (await get(`https://query1.finance.yahoo.com/v8/finance/chart/${sym}?period1=${p1}&period2=${p2}&interval=1d`)).json();
-  const r = j.chart.result[0], q = r.indicators.quote[0];
-  return r.timestamp.map((ts, i) => ({ date: etDate(ts * 1000), close: q.close[i] && +q.close[i].toFixed(2), high: q.high[i] && +q.high[i].toFixed(2) })).filter(x => x.close);
+  const r = j.chart.result[0], q = r.indicators.quote[0], meta = r.meta || {};
+  const rows = r.timestamp.map((ts, i) => ({ date: etDate(ts * 1000), close: q.close[i] && +q.close[i].toFixed(2), high: q.high[i] && +q.high[i].toFixed(2) })).filter(x => x.close);
+  // Yahoo often leaves the newest daily bar empty for hours after the close; fill it from the quote meta.
+  if (meta.regularMarketPrice && meta.regularMarketTime) {
+    const t = meta.regularMarketTime * 1000, d = etDate(t);
+    const etMin = +new Date(t).toLocaleString('en-US', { timeZone: 'America/New_York', hour: 'numeric', hour12: false }) * 60;
+    const closed = d < etDate(Date.now()) || etMin >= 16 * 60;
+    if (closed && (!rows.length || rows[rows.length - 1].date < d)) rows.push({ date: d, close: +meta.regularMarketPrice.toFixed(2), high: meta.regularMarketDayHigh ? +meta.regularMarketDayHigh.toFixed(2) : +meta.regularMarketPrice.toFixed(2) });
+  }
+  if (rows.length && sym) {
+    try {
+      const qq = await (await get(`https://query1.finance.yahoo.com/v7/finance/spark?symbols=${sym}&range=5d&interval=1d`)).json();
+      const sp = qq.spark && qq.spark.result && qq.spark.result[0] && qq.spark.result[0].response[0];
+      if (sp) sp.timestamp.forEach((ts, i) => { const d = etDate(ts * 1000), c = sp.indicators.quote[0].close[i]; if (c && rows[rows.length - 1].date < d && d < etDate(Date.now())) rows.push({ date: d, close: +c.toFixed(2), high: +c.toFixed(2) }); });
+    } catch (e) {}
+  }
+  return rows;
 }
 
 async function filings(sym) {
