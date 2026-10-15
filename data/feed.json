@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T23:56:17.824Z",
+ "updated": "2026-10-15T00:07:55.161Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -181,9 +181,9 @@
  "news": [
   {
    "title": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUzNwNFRQenVpN2c0T043QlotMjFzdFJDVWF1ZkIzbkJSY0NfSnhiUE9lNjRsdG1XNndyWUd6YXM3SlQ2VVVzYW85aGNNRWswZ1FUSnZjdGJiU0tndmlNcFhnVmVQMkxSa21GTFd3eUhHZXRDSXhnM2dFVTVfaXJGYlNRcnZ2MkVhaXU1b09HRG1nYmRrUF9HVE5lc2NjTGtPTkpXZUh5WUNFU3Axb2E3ZktraG92eFYwQmN0OFVyaTNJc0NySk9ybEY4OTBqei1jSmZMcHNnT0EzVHJIN1FVaHZTNA?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-10-14T23:48:00.000Z",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGwta25FVlF4T0c3OTZtY2RrTkhib1U3Tjl6eDBDTWFQUXpvemt5c2lSOVU4T3loVTF6SDFvOFQ5ZEJPNGZIRmR6cENHSzJHa0ZuZ252OTFUNmxWQjhyd1piRGZzYVJiZXBnQ1RjQm5iLUhWT0IwaVFOUjB4VVZ1Z2RpOE5ZRG9tajdLdkdnZ25VVENZRUowbk1vcHMzZmtGbnc?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-14T23:47:57.000Z",
    "q": "Tesla SpaceX merger"
   },
   {
@@ -250,13 +250,6 @@
    "q": "Tesla TSLA earnings"
   },
   {
-   "title": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRHFBcDFldmxyZHp2LTB2Z0hUM0R6Y0l2akcyU1NjVXN2YW9wYVVTRFUtdnRIM1JTd1llcDVKcFhobkowNUZxNVlYSE1NZ2Z6OUE?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-10-14T14:54:09.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
    "title": "Earnings Preview: Tesla (TSLA) Q3 Earnings Expected to Decline",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNblFlVVNPR2w0cHFjT19JdzFaXy1DU3p3VTdyWVVISlppZWFySEVjY1ZJUVljSjhyZ1AzSy0zRW1pVEJlRzRGTjRwUGNjN2tsWm1Ra21FZ2EwdVBQSzBpajZqVnJaUWxuYnFSN3pqdW9mcmpsM2RENkQwbnhFX09RRzR6eW5xdw?oc=5",
    "source": "Yahoo Finance Singapore",
@@ -299,18 +292,18 @@
    "q": "Tesla TSLA earnings"
   },
   {
-   "title": "A Potential Tesla-SpaceX Merger Could Create ‘Orbit-To-Ground’ AI Powerhouse With Over $1 Trillion In Chip Savings, Says Analyst",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNemg0VHIwTXIyM0NGSEh5ejRUMTlDWHhUajV3VUU4d3VLTXNjZm13UVp1LWpoX3oxbmVrQ2hRcGljT3ZmeVZhVEJfaVVfcnRDOU9LdFZrY3VLelgzaDdxYVMySEE2NnhTSnIyZkY5SFpzX2dJRjZHLXpBbXFkMW8yNU52TmZXTjA3QmRuckVaLVVLRnQzNnNDQmxQR0VVQWFRbDVYbHBRVlFZdlJQaGJMblZMY0RsS19pZ2NTeWF1cm5TR0lCX1ZHOHFHOXB6SlJzSUVJ?oc=5",
-   "source": "Stocktwits",
-   "date": "2026-10-14T11:18:02.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
    "title": "Tesla to Post Q3 Earnings: Will Automotive Margins Play a Spoilsport?",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNkk3Xzk4OXBQVnlyS0tiRDBkRDVoQ0ZtWXctZ2VzZFpJR0dSa2Y1SE54dDczNHB6WGhUeUZrS0xLUGd2UG50am95Z25rXzRKNFh4NnZkMDBxRkRLZkhXMm9iakFUdmpER1VEUHRmUXRsSzB6YWh2REhRT1VMVjVjUGh1aTZoQWdTRWc?oc=5",
    "source": "Yahoo Finance UK",
    "date": "2026-10-14T11:12:00.000Z",
    "q": "Tesla TSLA earnings"
+  },
+  {
+   "title": "NIO Stock Slides Overnight: BlackRock Slashes Stake Even As ES9 Deliveries Smash Premium EV Record",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcHg2QktTOFR6RkhhN3BxVGFBd2xrZ1lfRURVTHJKQ3prVDRnTW45d2FCR0VIOUM4YmoyTDluZDVLZWU2M2tQMnhOWVpuc2NYdW96Ti1udmdpN2NwOXlaS01XYzRzR2s1UmdKNmx2d1dkY0syV3R4OWxEWGNZVjM2ZXlzMDh2c0Q2NzdtMmpwVWdMeW1MX0dlU05JandMUHdsZ05ESENkNHZIdE1iSlVFaS1pXy1idmlJVWY1YlpoOTR3dw?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-10-14T10:54:12.000Z",
+   "q": "Tesla SpaceX merger"
   },
   {
    "title": "SpaceX Heads Into Earnings Week With Musk Backing Tesla-Sized Revenue Claim",
@@ -353,6 +346,13 @@
    "source": "Stocktwits",
    "date": "2026-10-14T06:13:03.000Z",
    "q": "SpaceX SPCX lock-up"
+  },
+  {
+   "title": "Dan Ives: KOSPI to Break 9,000 Within a Year... AI Bull Market Is Just Beginning",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13UkdacEdidXgyR3hKRURaLVpRRVZnbWdUdnlrR2NfLUhJM01hek1EYmkxc2dXOHlNWnhoZ01IWElFS0J6b2FlbVR2a3ZRcmJ4Sk8tT0NUU3VTMVM4U1ZjcTlxTGduOFhHR2VDeWJaQnl3YkFEQWc?oc=5",
+   "source": "BigGo Finance",
+   "date": "2026-10-14T04:06:00.000Z",
+   "q": "Tesla SpaceX merger"
   }
  ],
  "prices": {
