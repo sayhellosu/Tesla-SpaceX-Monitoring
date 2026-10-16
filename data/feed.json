@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T15:59:55.893Z",
+ "updated": "2026-10-16T23:37:46.956Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -10,8 +10,8 @@
   },
   "SPCX": {
    "Q3-2026": {
-    "date": "2026-11-03",
-    "estimate": true,
+    "date": "2026-10-20",
+    "estimate": false,
     "src": "Yahoo Finance"
    }
   }
@@ -180,9 +180,79 @@
  ],
  "news": [
   {
+   "title": "Wall Street buzzing over potential SpaceX-Tesla merger in wake of ‘flying’ car demo",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWG1nSlJlN0s0elVUWGVPdjhzTnVHM19oR0dTOU5BZmdGMU95NDNKb3hEbGE4T3lCTGtVZHhDdF9qemlSWURYdWI1bmRHTGxrR21Sc1g4bHpsWGRjTlJxM2xyV0NKbWJWWFBrcjZmZ3N4VzlSR05nUHRvWUpZeTlNazdTYi1DMTJLZThRYWRaZWdiZ21SN3dDeVRnWEwzSkY2cEctYVA2X29ZZkxjWlJMSGFEZzBUMzlI?oc=5",
+   "source": "New York Post",
+   "date": "2026-10-16T20:36:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Tesla-SpaceX Merger Bets Surge -- Prediction Markets See 77% Odds by 2028",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWXRienBoRkpqTkJnUGN2UzFkVzQwa0pNLUROeG9jVWw1TVViN090cEFDWU4ybjV5bVlmZE9jcVBZZjhxdlZ5cmM5andCWDlKZWI5WjBrNU95ZmlkTnlHV0pUVTdJelo4OGJOajNGNkcweEpPTUNQNlpPQVNWTjM2U083MTZHNEE3UFZmZ185aDZpNWxzVGdnUmRyNA?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-16T20:29:43.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "AI could drive a Tesla-SpaceX tie-up as soon as this fall, analysts say",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91RkVtdC1DR1ZXa1AxUTRKNDZ0VUxCVnk4ZUNjMUE1RERObkxMTU5CMUJxMHFZTHYwajFmdkpRS0tIZ0hVNzh3VlYxb3l6SFRlUTRvUTYzVXZobnVDbHJQS3l6QWUtV3JNQk1tV0txV0FKZTRNTWRoUTNR?oc=5",
+   "source": "Axios",
+   "date": "2026-10-16T19:42:02.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Tesla Stock Price Forecast — TSLA ($359) Gives Up 5.4% Roadster Gain Before Earnings — Range $350 to $382.70",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMldKWW1kQW5VU3FoLVdtcDE0ZTZKeHFfbDZMVEpWUDJOUzJiVW1IN2xoWjhxcGQtWkdON0RSdXQzVnV6clJWYWQ3WTFMMml4MUZVcHg1SFVRUnpUMmdaa2gtZldET21NUEdCcEpzS2lGcFl3QWczd3ZZa3kzdkpocGI2YnB2YTdmeXlwQkV4aVVHcWd4Tk9NNnhGU3Y2WktTYjdaVm5BX2lUS1g3eGlHYU03TXVfYngtWWVxSnZ2WlpjdFQ0VkFz?oc=5",
+   "source": "TradingNEWS",
+   "date": "2026-10-16T17:48:46.000Z",
+   "q": "Tesla TSLA earnings"
+  },
+  {
+   "title": "Wall Street Can’t Stop Sizing Up A Tesla-SpaceX Merger",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVWRpMXBUU05jcS1jSUxwR3B2a1pFa2xRNTdJdmlrbERQU0R4eHNyVjNTbjNJOFhOdGY1T3lGZUFYMnlpU21ybVQ5V28yanFnYjhTQ0R2VmxLQ3RQRWFaTzdjX09XVE9zOHhuZE1MS2JCNUdjRkl6eEpBLXdHRmstUTBQdmRUYmNRWW93SF9UUV9iQzY5NlFDa3ZRLXVyaGtUWkFoaWdBRjNmdDk1WlZ3Sk9zQWs3UQ?oc=5",
+   "source": "Investopedia",
+   "date": "2026-10-16T17:47:11.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Tesla-SpaceX merger: Barclays calls it feasible but timing and approval uncertain",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZXE3ZFBHVHl1bVFZcU5NYkxGZ1E3Tko1WUpDLS1UWHBZUUxLMktrUllqYkVRYm1OTHVEUHpiT09vSnBZRXRiTlQxRnlLOEhmaDFXUFYxVnVteW9EejYwYkxaY3JPYVhKTHYwZTZBbE5TVnR1Z3NUSmN1SmJ1WWNCTTZHOWRlWHAyM083YmcyTmotamQxRzd0TkF4MlRxWE9nUGVWV0pSRW4tRVpDNWd5SXJpaTI3bU14WmNpNUIxSUdkMjlULXhuWlhPRjBsamZIaEFzOFFsUEo?oc=5",
+   "source": "Investing.com",
+   "date": "2026-10-16T17:44:34.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX Earnings Due Amid AI Revenue Surge, Tesla Merger Buzz",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNR0I2Z29pYmxyeDFLSDZ2XzBZcjk1NGtxM19DVkNJSDllNlVSSVNQakRsUjZnMFRSVEQ4dmxwbTR5Nk11RW5oaUk5ZDJxOTkyNzdreU1QZUEydkk5dG5NakVhbGVuU2lwamo3eHFNUDNYVXE2am1TbnVzZ1ZES0JaYjNzMA?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-10-16T17:32:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Tesla’s flying Roadster just revealed something bigger than the car",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EWVNCMlUzMldEaVk0aHRPQVdGM3BYTVhycHlTbDNYbThkRXd4dm1MTVNaVTFJZnhyeWdCeVRlcWJfdHpFSExiczVZYWF0cW1wbFF3SHU4SXp2SmF6bUpnMmZJQ2VQakNlVnp5VQ?oc=5",
+   "source": "Teslarati",
+   "date": "2026-10-16T16:44:35.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Elon Musk may have just taken a major step toward consolidating his empire",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTnExUzRONjJjenAyZ04teHpIdlZIZ3J6THNacTgtV0lGbkw0V2ZscjZfWTVmLXpFQ3FMeXo5dktGSWVMa0tKUEpNMzJTemdmbFdBU0xXNFdQejBnWWRmNG1SLUtJd0RkdzE1S0NIT3h6R0prSkFGWXEzM01pVTRQVjRYYVA0S2lZUHZhNmF3aElRNmV4b2xNMVlxZFNzMmdZRk8zdm4xcXNqYS15SE5lUkZ3b0MwemZT?oc=5",
+   "source": "MarketWatch",
+   "date": "2026-10-16T16:39:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Prediction Markets are betting on a Tesla, SpaceX merger in 2027",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd3RNbGszdWZxRXZaNXJoN3RuUXd2cjJkU3JadWhYVzM4V3dPaE9Lc0lqeHliSGxLeWtCd1YzdWw5NjFpSlh1a0VTb2VtdUFDV01SWDE5bXF1V3lwRHZLQnBta0xyd0lFYl9GVTQ0OHpYVmZxbEV5eVFUeGRLbHkyeFRITEpNY252VG90aTBHa1FNQmNjLVZOTnlMX0c2Z2xaM3R0VkN1MV90OGdkeUFWV2sxYjJGMmVUM2FDcg?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-16T15:52:40.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
    "title": "Tesla's flying Roadster is more fuel for SpaceX merger rumors than a real car",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjdQYWlPWkJxdXJzVHZOcTF6N1MzYWc0ai1IbXZpLTdLR3Z1ODN2NG4wMGVyTnJTMS0ybVVwUDZkcVpiN3QzZFlXTXdxaVVtQnBvV1FIZURmdmNtY2NjQTFXenpMVEc1NGJpZjZZUGJaOFlqTXZBcDJ6M2NCaTg5RVFhb3VGUWhZdWlrZUFwczZKenRWRmZKMXVGaFFCV1pKTHJpUVdhTlQyRkFHZlVLaFhjN2taQlAzeXRqcXFqNEtjbG8?oc=5",
-   "source": "Yahoo Finance Singapore",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWRwVThlNkJlMHBGc0g3cWUxRTNUc01NZFpxTVdwSThtRW1ieXlaeklOX1JkR2hmb1hqRWk4Qm5iN3FPdHJXWUVFczVnTnh0aTVCU0VGU2t5LTZOZE9FbFRCVFltdVphamxNOFdvMXIyR2RibXVEeHBpZXBRSmF4U0l5QlA5OHN1cWtwRlZKaVBBTEJCcC1BeU5ncU9CWEVsOU1TXzljVDA5TkJzVnNjb2lPNTYzNm1NNmU0OGNlZDJHbmE2Z2d1VFV0STBocXBuYWc?oc=5",
+   "source": "Yahoo Finance",
    "date": "2026-10-16T15:50:08.000Z",
    "q": "Tesla SpaceX merger"
   },
@@ -223,10 +293,17 @@
   },
   {
    "title": "Expectations of a Tesla-SpaceX merger intensify as prediction markets show probability rising to 56%",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnpQTkpmeGFpNjJ6anlRaTJtTW5XMkZXdE5ic2FYR05UV0JBamdvRVhiYzliV21YTDdvdHcxeWZwQUsxQVJFeXl6cmNOc2tFRVJUclQ2aW9ZZ3N1dExoRUNuYzNoZHlVOHBsTVlBV1JmOWFma3NkTVNiTHZPb3dlMTllZlhYOEtOZmxIdDVCd1RfeTVZN2ZKNDhoOWRqNmh6X0U1RHpVLUZRM2dheXZ6SXZuNA?oc=5",
-   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLU14QTRYZjg5aDJ2YkxfYzF6WWVmMmhzclY0WWJQREhHZVlDVEdCUng0Ni1TS1hEZndYTGZ3VGN0UVROUnFmVzlUaTZmQ2lxclVUX0FUZTBTSFFuM29ic0FwX0kzeTg5VHJqVVhZYUNUVEhIc2JaMnlwanFzZzhqNUQxNWRzc3EzWE0wVEptMzVRb1dudkw4TmFXSHBvTExCN01mWDcxQ1FRWV9rSEE4S3B3?oc=5",
+   "source": "富途牛牛",
    "date": "2026-10-16T14:47:45.000Z",
    "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX’s Transformative Catalysts Are Closer Than They Appear, Says Evercore – Sees 87% Upside Potential",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVUJjRndtYWZjR1hoWUFOU1dmTkVaakc3ZEdWazZ5RkxYTFE5ZHVHQ0hMWVdmNFJqMTUwaEk4aFR0Q1k1YkxZS1h6YzJvNEpzc0V3Y2lVNFk1S2d0NTBBOTMtSjFRcW5xVnpLem9BeVpsSUNvT25Ebl9jODBWS2E4Mlk3M05IVGxlT3gyWlpVWnJsQXVYdFJPRXJfUTVTWUtTUzE1cXZVWjBkdXRpOUpqRGUyeE9mVUI2ZHVxVnUyR2JkdHNBZGEyMUwxZ3h5NzJxR1htT2M1U1d6ZkdubGpnbnlCVzBNYTlPdFNYUl9PN2xtRHc?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-16T14:45:48.000Z",
+   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Tesla-SpaceX merger timeline draws sharper focus after Roadster debut",
@@ -234,6 +311,13 @@
    "source": "Seeking Alpha",
    "date": "2026-10-16T14:42:37.000Z",
    "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Roadster Hype Can't Mask TSLA's Margin & FCF Woes Before Q3 Earnings",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcGZhWDIyZ3lZdGhHM2MtRzlxbXFjOUFaOFlGN3FtRHAxdmdZY2dZSURjTFdmOG5GajM4eXVCMUNNbnhITVZWMGk3YkowbE5nbFlSYTd0akxkM1BIYUNBMkZxX0RJRkZ0S200RExGRldvQ0tvTjJDVVVsdkZHMUU5Sjlja25YMXQ3bklHYUlyV1ZwOWlrSXdISGNNeFNHckYyVUpkdG9iVTU3X0hIY2tkM3o1OC01TElzT3dPMzVhRQ?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-16T14:24:00.000Z",
+   "q": "Tesla TSLA earnings"
   },
   {
    "title": "Meta, Tesla, SpaceX Take Center Stage As Earnings Season Kicks Into High Gear. Everything You Need To Know.",
@@ -244,8 +328,8 @@
   },
   {
    "title": "Gary Black Warns Tesla Bulls Against Hyping SpaceX Merger, Says Roadster’s Brand Impact Could Outweigh Earnings",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQZzBVRVZPcXIyRU5FRVVkUk9PWFhzcndYS1A0LVlib0F3NGpBRUNOLUVMb3A2a3h1UUhwdjlrU0U1cjFPdGM0VUFudEZMT2xzMDF1LUZKSW9QMG5QNHhvMDBjajljVkNtc3VEM2hLX3NVTUtFT3JRdG5WekJ4bUZ6M01iZ01IUFRTR3pfbThSU3c5emh3em81T3hEZkRyQzdSNTVNdzJDbzlfa1B0dnBMdUF0bDY0Mnh2SHE4QXhGZFU5QzZfS1dXV0ZxcEVXNEt2TXBtdUlhdy1vdXZJZ0VvMnFkZGh1ODVOa2l1NEszVm94c0x3?oc=5",
-   "source": "Benzinga",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGeURxMlh1TlJzcVlJbGRJSGoxV0pCTmRnTExtcWsxT092Y3ppMEpOLVp2R0lUN1lPSjZ5bkZVQUR6SVpNajZzRHVjRzN0Zk1ZQUVja3FmZVh1Q2xBZmFXaXVsN1BVNGxS?oc=5",
+   "source": "TradingView",
    "date": "2026-10-16T14:20:30.000Z",
    "q": "Tesla SpaceX merger"
   },
@@ -257,10 +341,10 @@
    "q": "Tesla SpaceX merger"
   },
   {
-   "title": "Tesla Jumps On Flying Roadster Demo, But Not For Long; Musk Cites SpaceX Collaboration",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVBseERmLW5lclhibjl5cF9pbHFIOW9PTWhaYS1Ka2k5NnBkZkIyaWNZZUFidnkxbW9lREJqNVNQQ0NpOUdDdDBWTFQybHphOXY4OFdpT2N6NEoxcWFFckowVVFzankwc3lCXzhkY0QwMmdvdFQySjFIOVNhNGpSUl9mU2Vzems?oc=5",
-   "source": "Investor's Business Daily",
-   "date": "2026-10-16T13:57:00.000Z",
+   "title": "Tesla SpaceX Merger Rare Earth Supply Chain Impact",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkUTRzR2gwRE82UEJkcTNxMFltaURQbFhmQnd2SUZPamh5dFVtMlhPQTR2WnlGRXRWVzhrU2VBbXhRMjFtYkhtWVdiNHdjQWpSeUdzdUVJcmFGeF9fVHE4ajZnMUZLZVJOTHpJbHZHUWVhek1sNUc1M1dFX3BKTWM?oc=5",
+   "source": "Rare Earth Exchanges",
+   "date": "2026-10-16T14:07:36.000Z",
    "q": "Tesla SpaceX merger"
   },
   {
@@ -268,90 +352,6 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUFsNWRnWldhTUt1VkxQejZmMzhJLUQ2OFpONzhZdEs3Z3FKRUVISFpzV3JaQ0JyMHA4SnowSlBSYk9BYW9DYU9OMUZSRy1pSTJfWW9BT2RPUlhtVEhyRVgzMFc3NmdRUnFVUnF1M0R1U21tYUhWc2xBM0ktSUF5dU5Za0RBbTQxcHhJemJvd01QMU45enNpdzNn?oc=5",
    "source": "Seeking Alpha",
    "date": "2026-10-16T13:43:34.000Z",
-   "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "Space Stock Watch: SpaceX Spectrum Deal, Rocket Lab Delays, Tesla Merger Chatter",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQUc0Z0dMb3Zjdzg1QVZ3RzlWV2VrOUxFMGx0eENZdW43MERqUVY2QUgxYVNodmYzR0JLb1VWa3UzUGkwVlc1ZlVQR1FDZDA2N1FScnltVEhraVVjRUNyWHY5V2U3YXF5SkJvN0FIUlB4OWY3SXUyS3R5dEFVenU5dklOSy15VXdNRGl1T2pDdHo3ZGRqMkNKQ2tOanVNUVFHX3lOcFBPbFI0OFA1Y2h0VmtKTEd2TDVKVnNkNWNyVmx5ZFBIN3RxUXM0VXRkWXpoa3pxcw?oc=5",
-   "source": "Benzinga",
-   "date": "2026-10-16T13:41:59.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVYzM2RYRlhQbVBYZjdnWTh4UzdheGh2LUtJRC1ib0I4SjBEdmRGOGkwLUYwelRvT3EzVXhnTDhBUjNOcE5PUWhLZDE0d1VYdVdXeExpNVBrWFZwQ1ZKX3NVaE81ZDNfUGd6VXJwM3VoQlg2ckhJTVF3VkVoTXhxNDJ30gGHAUFVX3lxTFB1TW5ZbGdYaGs2bFJaWkhQZU5VckVmT0Jsa21mUlNfcHJPRER0YUxrbU15X0dYejlxLUZNZkcyYVNYb094OG9GVTJoVHEwblN1Z3REN1YxSlpMWEFyV0tjRUw3TGpFeHltdHJQLWZRUllURU1DVnQ5WmhwYUdxN0c3OU1qaVg0RQ?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-16T13:29:02.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Tesla’s Flying Roadster Fuels SpaceX Merger Speculation, But Analysts Question Earnings Impact",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHFod1ZXLUY4dEtrcENRS25vOXZHcGQ2WHhVWjhYTDAxRDZySzkwWGtpUm82X0FnRG1TTFJkcXdiMmltM3pWdnZPc0VnRHJ6TUZOclVPZGkxMVNUckR0ZnJtVmZFSFU5WVQzTENtaVRyM2FiRlNldjJ6UnpXTjlYbkJqbkZ4ckNpWjFHMTNhdHZJN0lHZDcyS1J5Sm1CZUdI?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-16T12:54:46.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Barclays Sees a Major Tesla and SpaceX Twist Ahead",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEdsblRVVC1sZktCdFBVUF83RGFxODg4dWdwaXdndzFzQkY5bXd4TUJJakVZSFM4eTZTSEFQU2pFa3lodHY4cnI5RTdwdlZudEJDSmdfZi0zV2lTRjZNRDROMFJMT2FoSVZzZG5EVXNyb1hzZmRyRW9JRlJtSTdmbnpSRzJCcG9WcVpiMlVBMGF3UlVmZHVXYVhFTk1lN2hjX1ROZ1dydHBoTUF6OERr?oc=5",
-   "source": "TradingView",
-   "date": "2026-10-16T12:49:16.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "SpaceX Q3 2026 Earnings: Results Oct. 20, Webcast 1:30 PM PT",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PZHBTYUtqYjZQTVBMakxJY01KTks2THFJWnAwdFM0Smxsc2ttZnlmS0hfcmNaTWRlLUZxMUZYNkpMVGlhNGcybzlacU5CclQwajNBWklrUHNBRVZUaXNNaFMtZ05oNEZzSjFZRlBKQzh0S28?oc=5",
-   "source": "TeslaNorth.com",
-   "date": "2026-10-16T12:46:32.000Z",
-   "q": "SpaceX SPCX lock-up"
-  },
-  {
-   "title": "Elon Musk Could Merge Tesla And SpaceX Before December. The Deal Would Give Him Something Else.",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlNoRHpfMm9fd1BKdDdDYUwxdG9IX2Jkc3BESEE3UjIyelZpdHdHQ1hyYVlzTTh0ZGhpVnp6NHpQdDRiUFpDbEhDMEdzNkNjaEYyTElMcDZzZzNnRFJNYzN5aXRfX3ZiT0YwZVUyb0ZZSVMwbXR4OVVNWXhuNDVISDUyaWlqb1BrbmtZRndxR0I3ZTg2YW16UEY1ZEhpakZLbUd1QUttSWUxdXNYdldFXzBSUmc5VnllTzdXMm42Wk0?oc=5",
-   "source": "The Wealth Advisor",
-   "date": "2026-10-16T12:39:02.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Barclays Analysts See Rising Potential For SpaceX-Tesla Merger",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCNmx5TzhxS0tPcVMyS3Uwcm5SV2ZmSzRaeHcxVkVfUC03OFJxOU1rZFhQQ2Q5Y0ExNVN4Vk4tS05OOTlUUzh0Mm1DRVM1czRuTzZsOF80N3A1dVpPY3pXLXlHdk1JY2ZxU1BfVnkwUWo3aWNOQVE?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-10-16T12:31:23.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "What Analyst Projections for Key Metrics Reveal About Tesla (TSLA) Q3 Earnings",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVWFoWWp0V2g5Q2dRcGR1ZmgyX1FfekVqc0dfRkRmVWZUM3kxbmRWcEJNUGZCU0ZVc2o3b2N1SkZTUklObHQtVkp6cUNGTHMtSzBaUjlLczlKRUE4SXRyZndHMDM4YnZIQzlsdVExbmhLNzlSMnFDcWhDZVhNWmo4dFV1NVdKNGZSMVFTRHQyOGl3dEpaVFlqNjBXS3J6RVRVbV9vcWVn?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-16T12:15:18.000Z",
-   "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "Tesla's flying Roadster is seen strengthening the case for a SpaceX merger (TSLA:NASDAQ)",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZnpXX0VWRHdFaWNHVjV4MV9OdGt3OHFuNW5IazRBdnRDZUNWdl9ueV9OOThqbVp6Vi1PY0VlMnNCY0NNb2VwdzhNSjA4NUtOcGZJNkpuQWhYQ3hoMVpDMC0wMUhNTk9vM0dZd0dVekdCck5LSVNha1A0VWtDRWZrdnpkbEVzMjVNcmx5OWZmN091TDlOd2hVSlJiOEp5R1F5LXBaSS15aFVVTUJWRkR1VQ?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-16T12:00:40.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Buy SpaceX ahead of earnings, says Evercore ISI",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NYndhVFVubXBmZE5JT0FjTkc3bExobjhyVG1JTExVTmg5eGQyd1NxdERNbGdSdVhudERiSVBFeGs2UnpBZzJxWGNDOEF6enlmTFJoS0lVNHFjb0hTM0FmYmpKd1VqdEFreEpXajlEXzhBNUFSRHg2ZA?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-16T11:55:17.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "Tesla Will Report Q3 Earnings on Oct. 21. Options Traders Bet Big on TSLA Stock Swing Post-Q3 Earnings",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa1NDTVlYUWY3cGthUFRnV0J1Tzd2QTZXNkhlWE9kLTBCcF8tc0hhdXYwU2VQNHFSbXVIMWl5cm9nZS03SThLa1N0LWRiVEdGSy1kaUVOSDhfYzBGZ3AyNkgyTTNfX3ZQR09CUWhWdFpYNy1idGxOZ09Zd3hOU2xTaHBnRU9GRDZTOFpkMHJPSTl5ck9Zb1lUTkFDeTN1QUUwNUlfTmJMOUI0a1hzNUxlUzBleUJTVUZyaWExU2RWZkdQR3RvdWlpTV93?oc=5",
-   "source": "TipRanks",
-   "date": "2026-10-16T11:39:38.000Z",
-   "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "Tesla Roadster probably won't drive an earnings beat, but the big unveil did achieve 2 things",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWnZwZkVzZmhpUmtaM3E4aVRDRVRnX0FkSHcxN0FYY21lTmhfQXQxbzl6eHdqLWlnejBOclN0TVZzc0NmNklaMEtKZDFfLW5iM1BnSnZfQU9YUEl1cXo5V1RvXzduYWNKYkNWV2N4R2JPSF9mZ3EtSnl5b2N6U3ZvQUxTR2s1U3pyTllIUUhlUk1TeW1QNTk4R1ZIUFUtMWlXdXpDM2Rmd2pSWjJaWFdEZnc4RmRPSmJfclRnVks2YnUxSjdmZ1VwMUdGVVk0X0RjYUI0ZGF0cnBCNUI3N3dCM2VsUVoyYnEzaVQ4?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-16T11:17:46.000Z",
    "q": "Tesla TSLA earnings"
   }
  ],
@@ -814,8 +814,8 @@
    },
    {
     "date": "2026-10-16",
-    "close": 358.1,
-    "high": 370.58
+    "close": 354.72,
+    "high": 370.5
    }
   ],
   "SPCX": [
@@ -1256,7 +1256,7 @@
    },
    {
     "date": "2026-10-16",
-    "close": 145.8,
+    "close": 146.03,
     "high": 147.92
    }
   ]
