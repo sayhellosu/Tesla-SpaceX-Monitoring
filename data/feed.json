@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16T23:55:22.168Z",
+ "updated": "2026-10-17T00:42:13.393Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -180,6 +180,13 @@
  ],
  "news": [
   {
+   "title": "Tesla Jumps On Flying Roadster, But Not For Long",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbVBseERmLW5lclhibjl5cF9pbHFIOW9PTWhaYS1Ka2k5NnBkZkIyaWNZZUFidnkxbW9lREJqNVNQQ0NpOUdDdDBWTFQybHphOXY4OFdpT2N6NEoxcWFFckowVVFzankwc3lCXzhkY0QwMmdvdFQySjFIOVNhNGpSUl9mU2Vzems?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-10-16T21:02:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
    "title": "Wall Street buzzing over potential SpaceX-Tesla merger in wake of ‘flying’ car demo",
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWG1nSlJlN0s0elVUWGVPdjhzTnVHM19oR0dTOU5BZmdGMU95NDNKb3hEbGE4T3lCTGtVZHhDdF9qemlSWURYdWI1bmRHTGxrR21Sc1g4bHpsWGRjTlJxM2xyV0NKbWJWWFBrcjZmZ3N4VzlSR05nUHRvWUpZeTlNazdTYi1DMTJLZThRYWRaZWdiZ21SN3dDeVRnWEwzSkY2cEctYVA2X29ZZkxjWlJMSGFEZzBUMzlI?oc=5",
    "source": "New York Post",
@@ -346,13 +353,6 @@
    "source": "Rare Earth Exchanges",
    "date": "2026-10-16T14:07:36.000Z",
    "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Tesla May Share Even More Bad Earnings News Next Week",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUFsNWRnWldhTUt1VkxQejZmMzhJLUQ2OFpONzhZdEs3Z3FKRUVISFpzV3JaQ0JyMHA4SnowSlBSYk9BYW9DYU9OMUZSRy1pSTJfWW9BT2RPUlhtVEhyRVgzMFc3NmdRUnFVUnF1M0R1U21tYUhWc2xBM0ktSUF5dU5Za0RBbTQxcHhJemJvd01QMU45enNpdzNn?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-16T13:43:34.000Z",
-   "q": "Tesla TSLA earnings"
   }
  ],
  "prices": {
