@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T18:16:32.420Z",
+ "updated": "2026-10-20T00:22:39.574Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -48,6 +48,14 @@
    "desc": "DEFA14A",
    "items": "",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926116716/tm267596d6_defa14a.htm"
+  },
+  {
+   "co": "Tesla",
+   "form": "DEFA14A",
+   "date": "2026-10-19",
+   "desc": "DEFA14A",
+   "items": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926116948/tm267596d7_defa14a.htm"
   },
   {
    "co": "Tesla",
@@ -168,17 +176,72 @@
    "desc": "8-K",
    "items": "Material agreement, Unregistered share sale",
    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026043411/spaceexplorationtechnologi.htm"
-  },
-  {
-   "co": "SpaceX",
-   "form": "8-K",
-   "date": "2026-06-15",
-   "desc": "8-K",
-   "items": "Unregistered share sale, Officer/director change, Reg FD disclosure, Other events",
-   "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026043288/spaceexplorationtechnologi.htm"
   }
  ],
  "news": [
+  {
+   "title": "Ark Invest: Tesla-SpaceX Merger Could Happen Within Five Years",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTWtpQnVSUDE3V3Y1QlRUc0J0MzhNZUVEQnB4MENJcldHd2hvNDBfRUJjT2VRcUwxZVRzRkIwV3BTZkswNGFWdFFWVk1CTWlvb3NnWHNWREdlNEs3YTdEMnlJMkE4U3IzRWtZVHBVTG1YblBpNnkzbmllaVZGUGlUc1h4UHFvMXFTSTM4Y2dTM2pKUnRJSzU5Q09xSW8?oc=5",
+   "source": "BASENOR - Tesla Accessories",
+   "date": "2026-10-20T00:04:18.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SPCX Stock Rebounds Near $150 Pre-Q3 Earnings as Elon Musk Pledges SpaceX Stock to Every Child in America",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdnB0X2xPMzljQ0dRVkdHazVrTDVCUzFvOWprMDV1QlZZMjcxTWZnMzcwaDRlSF9CNmtaWXI0WGNmVWNCNTZTRm5DM1U4UGhHVUVuNzZiWGE4dWE5dnJWZTY1X0NwNDdXczRrVHV1aWtPbkdHenJBckkzUmZ0YnpyeTF2dEwxd090TW1OUnVpVU56Zm1kSmpSb1k5SG9fVEFMU0Y0S19fZkN2SnhnQXl3MHBqYlpScG53UEs4Z0hMT0ZkbnZ3eEx3dUFsNUp4OC1WX1R3Qk5QMzFjZ2dLRFNnbw?oc=5",
+   "source": "FXLeaders",
+   "date": "2026-10-19T22:39:04.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "SPCX Stock Alert: Elon Musk Pledges to Give a SpaceX Share to Each Child in the U.S.",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZUtERVRGUzFqcFRZeXR5SUYtR3JBZTB5dHA2QTczTjNjR0U2UnFMZVdCRlc1VFh3QlQ1ZzdrT3JJV1Y4VHlnanhyYzc0X2p5Qk1NV2RwZVBwMk10OC1mZXVDSGVPR2xiWnh1NkhkdDFZekxHWmhCaFdoZWJfVHhDX3d0cm1wRHdQZGJTZU1tQXc5WnJub3JGUlgzZW5RTm5vTHlXSDJrcUd0SGJMcXIzWnYzQUsxT2pLaTVNMmFSNkdlOXdn?oc=5",
+   "source": "Barchart.com",
+   "date": "2026-10-19T21:43:15.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "SpaceX Stock Climbs After Musk Gift Pledge; Analysts Predict Tesla Merger Price",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWZYTXBndlAwdWpzS252M3lUNXFtZ182VGpuYUxXMjhqNllrdUZpX2Mta3cxVl91R1VReTVUN1d5ZUxvNmhmX3dORkNzWTVNbnF3cXNibVUzWFU3OEpVLW9YNmh2UTltUGxsNEZfVlFhZG9FaEY4UHQzR2FzdTM5eDR3?oc=5",
+   "source": "Investor's Business Daily",
+   "date": "2026-10-19T20:00:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX Q3 Earnings Preview: Does Elon Musk-Led Company Turn Quarterly Profit?",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUTduM2dONzc5Q3lhbjRad1NaZTFOdTFGekpZWHVMWG4tNThHbl9CMVBhSVhlcTZEdFdzR2pmTkpTelVHb19LZGppeWxvTUE0NDhVUnB2TndZMU1ycUc3WDhGX3RWTzNwM3pjaFllcDdEcFVocmlPTHI0LXVhOC1SY2RyWUlETktXRFRvQ3dyUUJOcUNld2xvbWJIbHl5RnowM1Jma0hUVnE1WGMtak1SeHdBMnRyN2ppY3NXdl9QZkxFNEdUUXp1UFNfNVFNQTU0dTlEUg?oc=5",
+   "source": "Benzinga",
+   "date": "2026-10-19T19:53:52.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "Here’s How Much Tesla Stock Is Expected to Move After Earnings",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV1IxVFJOQ2JMbTI0OWZFbzQ1QTA2S0pLU052Y3ozQmQ5MVp1dm00RzJnd3czRndweGk2R0JIUkw5bVlyUU9LcEt5U3daYTFYMzNUWUVRNEY0NzNGVjFWOUZ2QWQ0TzZURTJYbFBKRkJHbmhybF9fVHZUc1lGV0dFc2hPQmF5SEF2WXpLa0prNTEtYUVYYVFTWnFmUGVDSUNSSmlTdEdyZG5IcS1XWG1XcTQ3T2RpN0k?oc=5",
+   "source": "Investopedia",
+   "date": "2026-10-19T19:32:13.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX Stock (SPCX) Forecast – Here’s What RBC Capital Expects from Q3 Earnings",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa2ZUYWtabVBqM0JJQUhfV0hyaVlGeTNZUEFua1cwVGdUbXBYbjk5UWdTc09mOVh3WjdBSzFhcTk3MkVyZmJTMTNXVjNhM09pSFB6M3FRTzVxRXdFUjltRG9UdTRISnZFREluOFZLNzdHQVBtRnU3WjNvczN5bmFZYzZ6cmNYclZBZ1Q3cDJIU0JTcUJieGJrV3EyWlVlYTIzM1lZUmttNA?oc=5",
+   "source": "TipRanks",
+   "date": "2026-10-19T18:56:46.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "Gary Black Predicts SpaceX Buys Tesla for “$420/Share” Within Weeks",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZEJRakRhLW1OMnBtaFp0aFJHOVd4OFhNV0o1cFJMenIzaDFuckNocnRMQUtSS0g2c04xSnF6eXE5aGZ3Zml5UG9UU21LTzZ1WUxsY2hqSVk2aEt0ajhZOXpNMGJ0N2pUV3BabkdmRkwzTlFRTUk2RDFxZm5ZeDVIUG1Nblg2dXI1d19JbXZQNVMtaVF3dVJ0NkFTVFg?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-19T18:36:18.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX Q3 Earnings Preview: Options Market Signals 7.8% Move as Analysts Forecast $12.9B Revenue",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1M4NmNfOUE1Q1p2cTJqZXFjMTZ3VkFBU2JrVmxhdWpBTXhwajdNNTA1Rkd4QTZMRy1GbTBOQWpJUlVPaTN6cVRENFB3UDFhQXRJa2pEVkRBcEM5VjZOdEtidzF3NHhMSF9LM0x0YjEzS2EybnExRnZyVGpmLU5PMmlweFZpWkZQQ2FFeEJvY2loR3lDTWlkdkZUelhzVjJCVldXQnNYbUtOVGs4dU9wb25ybDE3Vlc5aVRMVTUtVTU?oc=5",
+   "source": "TipRanks",
+   "date": "2026-10-19T18:30:05.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
   {
    "title": "Tesla-SpaceX merger is 'not so easy': Analyst",
    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUhQTTcwUnFPZktrOFVVM1QtMFhXajRTUktLdzZFelMwQTdjclNhbkF0UnJwcUpZa3RWQnl5NmlHLVFQZV9QdE53R0h0eGo1bWNYdDg0LTZEX2VIZURfd3NncjFwcU1kMUc5ekdfSGMxeUw2UXA2V3c5cmEwZVFVZFJUZW5UYmI1b19LbmZuMUVUV3dOZ2pyTDMxUU5zeXd5dk9NYjhPWDl2UQ?oc=5",
@@ -192,6 +255,20 @@
    "source": "Benzinga",
    "date": "2026-10-19T18:06:05.000Z",
    "q": "SpaceX SPCX lock-up"
+  },
+  {
+   "title": "SpaceX Stock Faces Strong Signal Before Major Earnings Test",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcHBJdzd3NjQzTXNuQ3hmbXZkWTRvaE1XOHhNNUViVVRYd3lIazFBVnAteVM5MUY2VEZzVUtzUFQ5bndxNXJyZW1QVk1hY1RRVy1LS3ZoYXVPbEZlWWl4UnNyNFY3bXRNSnFNWmVYWlY5ZkxqdkgzLUtOblg5MTJKanF0MFpReHFpUmdGNmFta1lLN2I3STYwRk13bXIxZk1YSENvMUtjWVNITi1JRkJZLUdrS0M4TGZEeWJZ?oc=5",
+   "source": "TradingView",
+   "date": "2026-10-19T18:05:12.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "Space Exploration Technologies Corp. (SPCX) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FdjlSV3JDNDQyZmFXMkxBdjZ5WW8yY25sa09pb3lpeXAzVGxwcHdMSWpjZzJQRkpMUjY0NmdKWVBjYjBfZU01enNaRmI3ZG5PNlE?oc=5",
+   "source": "Yahoo Finance UK",
+   "date": "2026-10-19T18:00:54.000Z",
+   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Tesla proxy asks shareholders to re-elect Elon Musk in December",
@@ -212,6 +289,13 @@
    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWRKN3lTTTEtLURLTVRMRkN2Sk5Fb1JLcl9mUU1VamRyRXhOR2RWQ1FRTnhsdjVSbXg4d1lkNGdIVHl6TDE0bHNUTWpoRThfSnNZWGdscWdXTUNEWHR4S3AyZ3JHcm5JNUhuR1pkZ2ZMcXFxdUxXQUxUMmI3RG5ValAwTnVOWkluZzI0Mzk5aWxzYmJyd0poandmQ0hhTk9aN1RySzZoV0k3a29sRTJ0RDdvU1ltVENy?oc=5",
    "source": "Investopedia",
    "date": "2026-10-19T17:31:42.000Z",
+   "q": "SpaceX SPCX lock-up"
+  },
+  {
+   "title": "SpaceX stock in focus as earnings loom: will it rebound or fall further?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTEZnZlcxd2J4ODlzYXlDOHpNUjd2c0xrOUJNQ1R4YTBJVGlKRDFlWEp1YS1tUmk4czR6RGZuTV9IdmY3MmJ0TkZMZ0dBaGRNNzcxNHZQS3ZxVkRWSTdlNURfR0U1cVRmaS1CZWw3N0FYUFV5MldpWEVLc3pMNHRqNHROYjhDQmUwLTBXc1RBUmVqVmM1bk4wcENMLVpUZ2NFYy1sZkk3ZVlEQVRBYUE?oc=5",
+   "source": "Invezz",
+   "date": "2026-10-19T16:48:53.000Z",
    "q": "SpaceX SPCX earnings"
   },
   {
@@ -220,20 +304,6 @@
    "source": "Yahoo Finance",
    "date": "2026-10-19T16:46:16.000Z",
    "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "SPCX Stock Rebounds to $150 Pre-Q3 Earnings as Elon Musk Pledges SpaceX Stock to Every Child in America",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ0JlRkYxM2VvdThLTEt5eFZrMDl4Y0wzNml0MkhKRzhSMHd1OTZ0LUJYZVJYYWlMQnlrUC1pQ0tGQ012amFrcnN5d01Vcll4T3B3MDZMR21ZcWoxMjdWMGJHVGFnTGJlU0t5VjZzVnZPbGl0UHBiWVQ1elZhMVZUaGl3TmVva3ZyNEY3RFlpZkVxeUpORDAwTVJ2bk4tWXpvMndCai1ZeHZmWWwwaWFHaVhYSENSSE9JOU9HN1plTGZrRy1UaEpyVTMtb25YamxGS0lJVS16Z0RQRTQ0TXc?oc=5",
-   "source": "FXLeaders",
-   "date": "2026-10-19T16:44:02.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "Elon Musk Is Everywhere. Get Ready for More.",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdTJGZjZueHNOMEJ1dnlCNDZBeVdtS05xRGctSXB2NUphdWY4cl8yTzlKV21BVGJZNmNjQW1sbUxkYl9GWjdxNWZaTTdZc0wteE02TWhFYzV2cjdtRjJOcmE3UHg5X0Z1MEprd0JHdE1MMXlvWmZaMk9GWnpZcl9PMFlHbWM5UThNQ3NpNHB5dDZJb2l5b3pmekM3ODF2bTZCVU8tdkNuQQ?oc=5",
-   "source": "Investopedia",
-   "date": "2026-10-19T16:28:58.000Z",
-   "q": "SpaceX SPCX lock-up"
   },
   {
    "title": "Tesla–SpaceX merger: What is the Roadster's bigger strategic play?",
@@ -247,13 +317,6 @@
    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObTBwanpKY2FFd0ZmUFdHZVZFRkZnTzhPRW1YM2txemttSzhhZ0RSRVVEWTZ0SVU3elM0dml0WjNmNE8yS3NFd1ZvYXF0b1lXajhKZVZxbXN4SWRObWluOHZ3RERTOGZXMHVHQ0N6YUhsQU1kSGlvYW8takJoN21JTlFPcGM2UlhvY2tKUFA1QzBVUnRnY2xWZXpOM0xCT0xfajJkRWgyUXV5S3ZtVWxsS0tuZUU5S0RzbnAwcVh5QlhwNzBBZExOWTY0VDZURXdrck1tOWRJckFVbGFaWWtzXzZSSjZjU3N2eEE?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-19T16:26:10.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "SpaceX stock in focus as earnings loom: will it rebound or fall further?",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnFYMjZhdjB5dUdGY1FPZEdCMjFGNXdnTm0ycFpZMWdxZmR4ZnkxakE0VnU4THo2LXltSTVvNkNsaldVWG9tTVpCQ09Vdlp5OEFtbTFFcEhuOTMtQmotZGR1VlRXY3hpTTZ4c3V3d3YwQXhFdHRQZ0NiZXA1UGRiZU8zZTJuZVVIaUNndEhtM1dzR1FyaHBkeFBjSHRscVVmZ2d4b2lCejB5d3pUd2c?oc=5",
-   "source": "Invezz",
-   "date": "2026-10-19T16:18:45.000Z",
    "q": "SpaceX SPCX earnings"
   },
   {
@@ -290,69 +353,6 @@
    "source": "Yahoo Finance",
    "date": "2026-10-19T14:55:40.000Z",
    "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "Tesla-SpaceX Merger Odds Jump to 67% as SEC Filing Fuels Speculation",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oS29SUlEyRHBXbW9wb01kdDcxOVN1UFJHR0VGQUJ3eERFWUU2LXBiV25Bb181QWdILVVJTHJyUnB0NHh5eUZPQVpLbGRxcFJ5LVBUUg?oc=5",
-   "source": "bloomingbit",
-   "date": "2026-10-19T14:43:08.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "SpaceX Stock Moves Higher: What's Going On?",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdFhkUEppeHFyTzNrT0k0ZjN5UTJJaHU3azhBNWZKWVFrbEVQUjk0WVlDcGhxdktvSEJ0TzBNejNSVFR4R3gwSmtWMWhsRXdTd0xuck4tc2JOSkdDaGcxaGNxc2JEWEg5OW5HYk02ZXNBdXBUZmV1YXA5VmdyLWstZ1hpWU5iQy1lYWF2Z0xrX1puYWotcWI4c3FpY3VnV0QtMGhV?oc=5",
-   "source": "Benzinga",
-   "date": "2026-10-19T14:30:22.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "Tesla (TSLA) proxy shows a board getting ready for a SpaceX merger",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQUpzOXdpajN0Tm1DbmtXN1RZa2k0UGl4MnBnREVhcXBPbnM2M3Q4NHVFaExfd25mVnhQTGVoT05KdUV4NkZmUlQ1TzFMRTN0N0VFSTQ0YW1kQWdVbVNKeko0Y2hIZERnUGp3eEpHeDYya0hxX3NTVTFIUXJiLVp3Wk9QZw?oc=5",
-   "source": "Electrek",
-   "date": "2026-10-19T14:07:00.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Morgan Stanley: SpaceX's (SPCX.US) Q3 earnings are merely an \"appetizer\"; the 15th Starship flight and the \"physical intelligence economy\" are the true catalysts for the stock price.",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVMzaXVfZnQ2X09LVHM4eEVyZUtYUTItODgtdXd1am9hVDdoMkUtT2M5OUdOM1JWam9ZalJDZFhYR0RGZk5ib0tPVUJRdlkybnVMRkhyd1plbnZiSVppMm05NzlSbXNyYTBqNl9LbWdMOE5VZExXOU5NZTZDZnMxb2RSbTQ0SS16Z0J0T1B1WU0wbWx2cG0tRHk4d01ZZ3o5aVE?oc=5",
-   "source": "Moomoo",
-   "date": "2026-10-19T13:42:05.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "SpaceX Stock Climbs After Musk Gift Pledge; Analysts Predict Tesla Merger Price",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQWZYTXBndlAwdWpzS252M3lUNXFtZ182VGpuYUxXMjhqNllrdUZpX2Mta3cxVl91R1VReTVUN1d5ZUxvNmhmX3dORkNzWTVNbnF3cXNibVUzWFU3OEpVLW9YNmh2UTltUGxsNEZfVlFhZG9FaEY4UHQzR2FzdTM5eDR3?oc=5",
-   "source": "Investor's Business Daily",
-   "date": "2026-10-19T12:59:00.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "SpaceX Q3 Earnings Preview: Options Market Signals 7.8% Move as Analysts Forecast $12.9B Revenue",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZ1M4NmNfOUE1Q1p2cTJqZXFjMTZ3VkFBU2JrVmxhdWpBTXhwajdNNTA1Rkd4QTZMRy1GbTBOQWpJUlVPaTN6cVRENFB3UDFhQXRJa2pEVkRBcEM5VjZOdEtidzF3NHhMSF9LM0x0YjEzS2EybnExRnZyVGpmLU5PMmlweFZpWkZQQ2FFeEJvY2loR3lDTWlkdkZUelhzVjJCVldXQnNYbUtOVGs4dU9wb25ybDE3Vlc5aVRMVTUtVTU?oc=5",
-   "source": "TipRanks",
-   "date": "2026-10-19T12:56:45.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "SpaceX surprises Wall Street with Oct. 20 earnings date — here's why",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOalV1UGEzMkNJNkFZVDJLTy1SZmswM1VCQW1XMy1NRUdJZ043YWdSTnRqemptU3lqTm9sS2daVEtrOFhkTl85QUM4VlVvcW5fcEtrUGlKdEItanJ3WGZrdVRMTWdZcW9xZTNCTWNRZE1fTHpWSGxTOENOYkU3ekpiVUVmZFlhMGNoY1A5S2kwV1ljVmh6SFctYUMzNWtvdU1Md1Q3TUxKV3pGaC1EMzdmQTJmWUdabzBDUDZMakk2Qktaajg?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-19T12:30:59.000Z",
-   "q": "SpaceX SPCX lock-up"
-  },
-  {
-   "title": "SSPC: SpaceX's Q3 Bar And 2027 Spending Bill Open A Short Earnings Window (BATS:SSPC)",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT3kxdDJZd3cyM1dDejA0d1BHN3V1R2FaeTA3WUpPTGRrcXFSOGRuWWNrbThEMGo2akVYS0FBRi1XY3R5YnJDQUVMOENScXZ3SmFuRG1FZXpEMEs1LXBncHJiQTVYcmxuakhmSEdQZ2lUNk1VenVPaEU2WnJCWG01WmRYRmZnMlU5S0JQSmhsYUFjaFJlTGxiSjBib3NjcHZGNHB2TlNmamlNOWNpSlJMVkNn?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-19T12:30:57.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "SpaceX, Tesla earnings to test Musk's AI spending ambitions as merger talk grows",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdi1oa1VDTm0wMUJualVQRU5ieHFCQmFCejlxdEx1cEM3am1WaEV4LVJwRGVab29QU05IUl9fYzhsaFFFSk5hVGtTZFFLNGNOUVNFMjJ4RkE2b2RCdVJmN0t5UmVBeWpPb2ZwMThLcVRkVENsdFhRc0JOUml0Z3F3MFg5bDhsNmZrX2tuS1ZkRFl2elAzd0p0ZDlFb0E1MF9malVCZXhEZnJqRUFYMUxFNDV5ZmRrZkYxZndkWGthUEpPQVdOTHAtMHBVTQ?oc=5",
-   "source": "Reuters",
-   "date": "2026-10-19T12:27:14.000Z",
-   "q": "Tesla SpaceX merger"
   }
  ],
  "prices": {
@@ -819,8 +819,8 @@
    },
    {
     "date": "2026-10-19",
-    "close": 367.97,
-    "high": 369.47
+    "close": 368.06,
+    "high": 369.58
    }
   ],
   "SPCX": [
@@ -1266,7 +1266,7 @@
    },
    {
     "date": "2026-10-19",
-    "close": 147.7,
+    "close": 147.96,
     "high": 151.01
    }
   ]
