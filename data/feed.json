@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T23:54:24.624Z",
+ "updated": "2026-10-21T00:09:27.640Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -180,10 +180,17 @@
  ],
  "news": [
   {
-   "title": "SpaceX (SPCX) Q3 2026 Earnings Call: SI Growth Drives Revenue to $14.6 Billion",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wd0ZHZUJZWnMtVVNubjV1OFhTOXc2cTVXR0JTQUFvdTNMSm1HZzRQVGNFY3MzN05pck1wbTJSaUdvcklaU2ZZM04wUFI0bjJoaXFhYjk4RXduc1ZPdHEzS2FJdGRGWUw5d3ROMlBpZ0Jldw?oc=5",
-   "source": "TradingKey",
-   "date": "2026-10-20T23:41:05.000Z",
+   "title": "What SpaceX (SPCX) Said on Its Q3 Earnings Call",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeWVsczhUYjl4bnVxc1Rtdm42NWx6SGlGb3BFSUFvTXJ1NFViUERTOHhycVFjcC0tcDFKTG93ZXBpNXlPWjR3Z2F1MlFBcFBFWWY3czF4SS1SUlZ4eFB3M3F1aG41dGdvU1VRS3gyRXExNkpFWEVIUU81WHdfWmVvR2VkSk1manVjT0gxVVo5OGdSVUY2X2tPNFE3MmRmanJCMG4xZWh5TXBRSW5uT3Y0?oc=5",
+   "source": "MarketBeat",
+   "date": "2026-10-21T00:05:45.000Z",
+   "q": "SpaceX SPCX lock-up"
+  },
+  {
+   "title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVzanhudmsxVVk2MnlHV0FvZXBhSU1nUGE2R055NEJWaF9kTTFaUEhDRG8zd2pXalR3bEt6UU1ISzAycW5qc2dNekdmQlhrMHFTejRUeG0xVmJTNElHWWVhZTh6UFpEX1hoUjVwaUlGaDE5Z3pXakR6WXg1cExTTU8zekh2bTlBVjZKVlVhMTB1dw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-20T23:47:57.000Z",
    "q": "SpaceX SPCX earnings"
   },
   {
@@ -191,6 +198,13 @@
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdXVNdkxPN0NoeGkxYlJ1WDdzR25zQUtZYldyUG1maEpQcWg4SFFBV3VEMVdqWjlRcDRKZlFFRXkwVWNyczdsUmhwZk9TSDFSVWhhSTI5bGtvN01GN2JlcG90Q0Z2Q0xBQmYwUHN1WGEzRFhrNG5IN21nY1lGS0NCS1JWNElidXlTVEV3b0h3QnJKc2J3VHJkb0hKWWtHajFCWWJodHpxc19iUEhscThXVW5TYjd5UFFRbmpEc2N4eWRoZw?oc=5",
    "source": "Bloomberg.com",
    "date": "2026-10-20T23:39:48.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Musk says SpaceX and Tesla are exploring blockbuster merger deal",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNU1ljLWpCc2pVR0FvNUlOQzRwSEdYamItTGpPT3R6dkxlQ1phMGhlNHZya3BjUGd1U2xxWXZzYVFsRHYyeFVIWmtuajQycG9qZW9neG1lekpMbHY3YlRYRjBCaTZEZkVoS3BRSUlIODlmV3pmVkg3NmlSakJxc2VHdmtUb2RGbHoxeEJLVFJtcnVxd2dEMG9qdjFrNy1kZGNRNHczMC14UW56T2QwRXFLOXBGbW1oczhhZ2pjc2FXZ2tmZ1dGb3UwV285bksxQdIBzgFBVV95cUxPdWFCckU3ZWhfZXJwc04td3dHOVpxb1BtNmtIU0tBcVhsZkI5TVlFUUxxWmY0S2l1Z0txT2thU3FuMWlLa2RJaTNBX0FWd0JyeGZFN2ltZFNOazYyUUVQVWptelFLVG5lbzlGQlJLVklhVk43WF9RUVE3Vk9VNVIzdFozQ0VpLWFoMVNTRklqTDNSeVZDNjJ0S0RYa0c3SzdaQ3JvVDdVckFHUDdRbThPYjJ0NlpxcWRrWFdaTmhnOTluY1d4R2hua1R6aHN4QQ?oc=5",
+   "source": "South China Morning Post",
+   "date": "2026-10-20T23:35:28.000Z",
    "q": "Tesla SpaceX merger"
   },
   {
@@ -338,20 +352,6 @@
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lLWJUcHdJcDZvWnVoeGlraDVxSFRiRXZWQTlsRHhWeldSYm5IdUZkTkRTRFBzWTVzcDVBUjFuMGlVSWtsNVpHckhlVGNDTzdXeUVBZTd1SmFYTE5zMEx4NFVPYUlucklhOXFtYUJ3bWVRUQ?oc=5",
    "source": "CNN",
    "date": "2026-10-20T21:59:17.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "SpaceX-Tesla merger? Musk speaks on 'tap-dancing through a minefield'",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWExibkNMSmFqS0hwakdGaUxzd3c0bUhJeExNVVVSaEpUQTVhSmI2ZDJENGZMeDBxUFRXM3RZUDl1cEhIYjc5SFpCbVZ2a1BfSy05anR5cXRCZm5JODlqcXRQN2dsdF9qVnVXc0duTTFpM195dVJWU3psT3BibVNMc0pEZFhkX2FVbE5XeFhiSWdadHRBRlJDTzYtbEVsOWVuZjFidUpkQ19VSVB3VFZ5X1Q4Zw?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-10-20T21:57:18.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Musk Says SpaceX, Tesla Have Formed Committees to Explore Merger",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZXlJeVRqb0VLTDJOLWw2REpwUWcxbnkzQXZWWElyYVFyNzRoYWhudjZwazV2dnJ4OFJONVRMaFpTXy1PVFl6RC1mODVENkd5b1d2c1RlMGVhM2lHT0pGN2xvMnpuZUVsWGw5bUZzNjR1WTEyVEU5U3BZLUFOek9WUWg4NTZtNnhZd2RUZGhYaFpFN1RUeFE2WmZMRlM?oc=5",
-   "source": "The Information",
-   "date": "2026-10-20T21:52:00.000Z",
    "q": "Tesla SpaceX merger"
   }
  ],
