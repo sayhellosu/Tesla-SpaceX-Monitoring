@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:03:34.555Z",
+ "updated": "2026-10-24T00:58:20.299Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -287,16 +287,9 @@
   {
    "title": "Watch A Tesla-SpaceX Merger Doesn’t Add Up",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHB3RkF6cTlEOHRQZXBQRTNaczJ3ZXRkT25uR3lTeXd3U09LRk1ybl94b0dfTUs0eGREZE5kYXdud2hxOVIzdnF5NFdfTks5MlFwTFRwR2xHZml3LVpSRkg0MXJJUmJualJjME9DSmJvUTBoQ09CQkllTlBRZHlISE9QdGMwTm9rZ09vVE00M2k2am9KWFE2OXdHODktTmtU?oc=5",
-   "source": "Bloomberg",
+   "source": "Bloomberg.com",
    "date": "2026-10-22T21:32:34.000Z",
    "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "SpaceX is said to face higher borrowing costs as $40B debt sale nears completion (SPCX:NASDAQ)",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVTlRNTJHSUVCN1ZCcXZCMmFoNHJGODVIcjlnS3RFME5pY25TYXJ6VHRQUlY5bjlSQV9PejJpV3B5M0ZLMVYzNDY5cHU0MmlrX1ZJWXBMcW5sWHc5RnB0alFkeXRyOTdwWFlkX1FzOEdQaUNfanY4SWhiVGZtemg1R0c2X1FfN0I5QjlHZFRQbEV1VDMzbzdRSHBzb1Q3THZBVGI1ZWF5amtRd0pPamhqNkFCMEJfUklP?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-10-22T21:22:29.000Z",
-   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Musk wants to merge SpaceX and Tesla: Here's what to know",
@@ -352,6 +345,13 @@
    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTRyelIzamd1SWNTWEo0bnZvcE0xVWRiMHhTS1BYdmJnYXFSWmJWd3pCVW8zdGh5VFp1dXMyeWlRZExoWWx0aUMxY3VUM25QNDdadkJ1d3Y2eUpxd0RlSjRZT1JpNnNfUXhFQ3RFR2V6YW1rdnBnN1MweU8xZ1dwbDFCZlltV1FhR2EzeFRfNEpEWklPY0g3Vmd4SG9QWWtodm1aVQ?oc=5",
    "source": "CNBC",
    "date": "2026-10-22T17:25:26.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Tesla: Valuation Is Key Consideration in Merger Talks With SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZjdYVUpqb0d0Y0lGUGROYzBsSnJmWnozajF4SFA4RTJCM0dtbk0wb3FBNWh0dGtrdGZhUUNrMndTN2luS3lCVXh6NnRaS2pSV2NqZFRvZVB3eE9aWHhJNERVbGxrdGVuekJ0WHZuVHhUekpMYktTTm9HNlBUTGtndm1RMTRXajJfTU1FMTRBQ3pWLWhaWkVYZ1FXcGk3NDJjbXQ0UjFpdU8?oc=5",
+   "source": "Morningstar",
+   "date": "2026-10-22T17:12:56.000Z",
    "q": "Tesla SpaceX merger"
   }
  ],
@@ -840,7 +840,7 @@
    {
     "date": "2026-10-23",
     "close": 372.22,
-    "high": 377.3
+    "high": 377.28
    }
   ],
   "SPCX": [
