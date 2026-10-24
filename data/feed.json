@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T01:51:06.182Z",
+ "updated": "2026-10-24T06:05:16.311Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -180,6 +180,20 @@
  ],
  "news": [
   {
+   "title": "Tesla (TSLA) Starts Semi Volume Output With $2.8 Billion AI Component Bet",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTlzLTFTSGNFNXBQMlhvU1E2MnhnX0s4T1RQYkZfVWdlZHZfN3B0RmVmaEtfNXQzcDVUb0Z5X3hYMWtjRXBnZEYwMzRkbGxCYzR4bzY0NjJaN0pFbVh6aEp4MXp1TU54RWhKemJjRnZ4S3BnYVhpV2hiM0RiU21TZy1zSVpyZUpUaEJrSVJwa2xST3ZQdV9uNA?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-24T02:11:00.000Z",
+   "q": "Tesla TSLA earnings"
+  },
+  {
+   "title": "Elon Musk Says a SpaceX-Tesla Merger Is a “Good Idea.” Here’s What Stands in the Way.",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOR3NhOGpPUDdnR1M3Q3BIeTYzUTd4Q2txX0dobDEwQlN6enVEMVVGVVo0OThUXzdYRmlPWXNCTTFyNHhjR19zdWRJUmt2YlBfZEhpSm1UMENaUS1abS1jVVFtZlF5YURaeWlPalNMUXo5d0lTR1JNcDJHYW10c29JZWlZdUZ3UlZDWFBVSWRjXzNrU3FaWWsw?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-10-23T21:54:02.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
    "title": "SpaceX-Tesla Merger? | Zuckerberg's Deal | The Rundown",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZFJIbHlKb3g3Ry1fLWlfUlh2STlFTEFBdlZDdTBCRk1vekhULThfMTYyQndYeUV1Q2xlY19QSlRoa0wyYVU4R3Jvb0tmc0NqZFBzNkd0MXYwSURRX3l6MXhJRTBRMjdFYkx3NW12eEdCcHBxbThrcnVqUXdjSVpnREppd19taHFDVHozTHdGOVJaRjN5RHhhd2JRTW5qN1FUMkMxdlJOSV9Kbk8wc2kzTnhCdGFOdlloRklYS2E5NzY?oc=5",
    "source": "Bloomberg.com",
@@ -206,6 +220,13 @@
    "source": "Simply Wall Street",
    "date": "2026-10-23T15:18:15.000Z",
    "q": "Tesla TSLA earnings"
+  },
+  {
+   "title": "Starlink Users Surge, but Revenue per User Falls - SpaceX (NASDAQ:SPCX)",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFlETmlQWlozNnh5NnhORk5zTjU4RVA4V3c1SUpuTnJFek5qcWx4Q2hvUE41UXEzY05IZGVlanY5NEYtdVQ5cXVvNFVNSUpPangzNm95QVhfbi1raTFmZzBXanBObzRZYllsN0dCTnFFN2ZZejQyQWljX3pqRjAyS19fMVJ3TXo2X0xqbGQydzU5ejN2am9KZWg0V3A?oc=5",
+   "source": "Benzinga",
+   "date": "2026-10-23T13:02:07.000Z",
+   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Gary Black Says Tesla Investors Are Taking Elon Musk's Earnings Call Projections as 'Gospel' Despite Stock's 'Extreme Valuation Metrics'",
@@ -278,13 +299,6 @@
    "q": "Tesla TSLA earnings"
   },
   {
-   "title": "Musk's wants to merge SpaceX and Tesla: Here's what to know",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CaUtySGVBbVFWakItck0yTTlQX1ZHSEZGcWRuRTV2em0zckRfTXRVbmpDMFllZlN4cERWN0JvaVJTV1RLSFRRTkZISQ?oc=5",
-   "source": "AFP.com",
-   "date": "2026-10-22T21:49:46.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
    "title": "Watch A Tesla-SpaceX Merger Doesn’t Add Up",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeHB3RkF6cTlEOHRQZXBQRTNaczJ3ZXRkT25uR3lTeXd3U09LRk1ybl94b0dfTUs0eGREZE5kYXdud2hxOVIzdnF5NFdfTks5MlFwTFRwR2xHZml3LVpSRkg0MXJJUmJualJjME9DSmJvUTBoQ09CQkllTlBRZHlISE9QdGMwTm9rZ09vVE00M2k2am9KWFE2OXdHODktTmtU?oc=5",
    "source": "Bloomberg.com",
@@ -339,20 +353,6 @@
    "source": "Morningstar Australia",
    "date": "2026-10-22T19:36:19.000Z",
    "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "Tesla (TSLA) Q3 2026 Earnings: 75% FSD attach rate, financial highlights, more",
-   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSlNxOE9XQ3ZIdzAzSXRWcXZEblo2NmhUUFBQMDJuUEFUYjNNT3FwTEpPV3hoMzdxblJwVE9sS2o1YTViU2NfYjgxT0h5VFBBVHg0c0laTXZCRjcwbkZ6anJyZHNZUzFZc1IxSVdIZkNrRDduRjZqaDkwNDlsTG1ELXFWNGQtUGZDLUY2VEZFZnhYU1N0ZTVmeWg2ZVFPSHNURU5fZlE2NDQxS3RnWVlrQW5KSjJEXzdDdmZpTlQ5dnEzX01RQmpFWUJxZ2R3aGhqQ2NFcEU5R1piVzhS?oc=5",
-   "source": "Tesla Oracle",
-   "date": "2026-10-22T17:59:29.000Z",
-   "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "The impact of a Tesla/SpaceX merger according to Tom Narayan",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLTRyelIzamd1SWNTWEo0bnZvcE0xVWRiMHhTS1BYdmJnYXFSWmJWd3pCVW8zdGh5VFp1dXMyeWlRZExoWWx0aUMxY3VUM25QNDdadkJ1d3Y2eUpxd0RlSjRZT1JpNnNfUXhFQ3RFR2V6YW1rdnBnN1MweU8xZ1dwbDFCZlltV1FhR2EzeFRfNEpEWklPY0g3Vmd4SG9QWWtodm1aVQ?oc=5",
-   "source": "CNBC",
-   "date": "2026-10-22T17:25:26.000Z",
-   "q": "Tesla SpaceX merger"
   }
  ],
  "prices": {
