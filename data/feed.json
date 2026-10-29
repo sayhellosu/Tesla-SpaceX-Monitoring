@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T17:51:03.035Z",
+ "updated": "2026-10-29T00:59:42.572Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -180,7 +180,14 @@
  ],
  "news": [
   {
-   "title": "SpaceX stock is testing a key floor level after surviving its biggest share lockup expiration",
+   "title": "SpaceX earnings: We raise our fair value estimate on scaling data centres, but is the stock a buy?",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTG1NOWltaktBTG41U21vb1E1UDdjZ1QwUklzZDhOQVBFbVlaR3RXVlU1NnVhbXpuTWJZQ09razFmdWotUWRlVGtpeTdYNjB3OTlOUUJYSkxQRzFoaHN2ZDE1dm1oZ2ZLelUzTlJpYXlTN0l4Z0pkRWZPLTFwYVJJVWt5V2Z6ZkFwdkc5SS1MTURIZjdCTTZ5MWNrd0ZUZGpfVkJEQWJlTFJLOVN6N0lyYzFYY2Q1RlVTUUVLYw?oc=5",
+   "source": "Morningstar Australia",
+   "date": "2026-10-28T21:38:25.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "SpaceX stock slides back toward $140 as smaller space names leave it behind",
    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZFJZa2pMWE51UmZtaVJkZG16em8xVlJoVUdMdXdaSGw5eFFwM2d6eHVFRjlWQVh5aFVIdVJ3UmNsZzYwSW9NN0N3X1BfUEVrbVRzOGNGdk8zVGJwT09RY0RnelRRMEpLci12bUhoNU5LOWhCWWpEWGpmbjdPTW9YTElHUDlMY2lQdVFRdXc2LXRibC1neGtsZ3puR1RHb1VxZUVDaTFWVDFKV1hLSlBVQmFKXzRMaG1Xb0Q0MlJ1VXBvUlFhZTUxQWZ1VFluVUNDWFZBYWp1TVVFS3pGN1pIS2Q1VUM?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-28T17:09:05.000Z",
@@ -197,7 +204,7 @@
    "title": "Is SpaceX Stock a Buy Right Now?",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1tM1JvZTdJUXhtQjRvenZ4NGlhbjhpa1J2ZXBqRTRBNEFUWXNFa2RjQnB3ODhZbHliQnE3aVY0RXdqMk83bkRZTlRNYVQ4VF8tWTJ3ZlVWUmtRZVNicE5HZHJrazRaaU5IRHQ5emt1a2IxUGNQTnRHaG5ETnJ0dGs?oc=5",
    "source": "The Motley Fool",
-   "date": "2026-10-28T14:47:34.000Z",
+   "date": "2026-10-28T15:43:00.000Z",
    "q": "SpaceX SPCX earnings"
   },
   {
@@ -229,11 +236,11 @@
    "q": "SpaceX SPCX earnings"
   },
   {
-   "title": "TSLA Q3 Earnings Call Highlights Autonomy and Expansion Plans",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDN1SmRTRE83bjBYT1ZQdnpndkk2VkQ5djNOOGpTYjRXa0xaQlRJbktuLU51QUt0akQtaXp4LXk1UTRxSGxNUGRDcHUzTG1pMVpxUV9GSlVoVThsbUl0a19JVmJ2TDJ6VUFSMGZPUG80Q2QwbFFiXzZzcVpZTy13cVQ4cGFpdm9YU0FYU1Jxc1lRNnh6Z2dVYWl4bDhLejE5TUY5dDVsX0VBb3M?oc=5",
-   "source": "Yahoo Finance",
+   "title": "Here's What $10,000 Invested in SpaceX Could Be Worth in 2030",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLUd2cHJYVHpKTUFyVGFwek5Yd1hpcElnWkpMeDhpVllOcmV6bi1FdHVvYlRVejlEaGN5bzNyb3RtTVdmdXE4ckNKR1d2b2Z6YlB0MGloYjVySzc4RTlQWGRUOFJsZ01qeURLa3JBYkl6bl9MbjhqT09RTEhVLWUtNmV3dUlEbVFXb0lxeVNwbFNMckFmX3BHUg?oc=5",
+   "source": "The Motley Fool",
    "date": "2026-10-28T13:00:00.000Z",
-   "q": "Tesla TSLA earnings"
+   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares.",
@@ -248,13 +255,6 @@
    "source": "Yahoo Finance",
    "date": "2026-10-28T10:20:09.000Z",
    "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "Musk’s Tesla-SpaceX Merger Would Formalize a Decadeslong Partnership",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNVdHcXJLUDN1N0FpRTE3WDBtU2dWQVZmQl8wb3RDaWpuRkpqcUU3NERZYjA0Ri15WC1FT3FHMENTaDIxVUFFR3NjWXZ4TFUyN2EtVVFiR243UGRZQVY3dmo3Q1o0bkE0bVdQUHBUYlEtMWJlbmFqZi1FUTVpeHpoeXlRby1Nb2JvU1Rtb0k3cFZKMkNUX0dha1VUSFU2QzVzZkF6RkFsdzQ?oc=5",
-   "source": "WSJ",
-   "date": "2026-10-28T09:08:07.000Z",
-   "q": "Tesla SpaceX merger"
   },
   {
    "title": "SpaceX’s AI Boom Has Yet To Pay For Its Build-Out (NASDAQ:SPCX)",
@@ -322,7 +322,7 @@
   {
    "title": "SpaceX and Tesla Turn to Boards Cozy With Musk to Mull a Merger",
    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdi1iUlRUTTBzSmd0ak9XVkJyeHI0bjYwLU5IQkRadEJ2cjV6VTVneWNxUTk3dEpnQ01FOGJhbjZOeGd4bHpTUmZpd2ZtU2lRVlN5WDZnalk5NFEzQnQ1aXJBVUFFMHgxUTFuSGNlenU5Y1Z6UVJxUU1nZy03U0ZyTVMwdmhsV25XRXEzSDU0MS1ubGl5WnlxVFp5MHhoU081ekJZdE1Bd2dMZmc3dHMwZm1LM0Y?oc=5",
-   "source": "Bloomberg.com",
+   "source": "Bloomberg",
    "date": "2026-10-27T17:00:00.000Z",
    "q": "Tesla SpaceX merger"
   },
@@ -854,7 +854,7 @@
    },
    {
     "date": "2026-10-28",
-    "close": 402.14,
+    "close": 404.22,
     "high": 410.85
    }
   ],
@@ -1336,7 +1336,7 @@
    },
    {
     "date": "2026-10-28",
-    "close": 144.52,
+    "close": 145.23,
     "high": 147.57
    }
   ]
