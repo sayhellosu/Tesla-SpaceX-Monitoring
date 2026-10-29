@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T00:59:42.572Z",
+ "updated": "2026-10-29T01:16:02.430Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -181,10 +181,17 @@
  "news": [
   {
    "title": "SpaceX earnings: We raise our fair value estimate on scaling data centres, but is the stock a buy?",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTG1NOWltaktBTG41U21vb1E1UDdjZ1QwUklzZDhOQVBFbVlaR3RXVlU1NnVhbXpuTWJZQ09razFmdWotUWRlVGtpeTdYNjB3OTlOUUJYSkxQRzFoaHN2ZDE1dm1oZ2ZLelUzTlJpYXlTN0l4Z0pkRWZPLTFwYVJJVWt5V2Z6ZkFwdkc5SS1MTURIZjdCTTZ5MWNrd0ZUZGpfVkJEQWJlTFJLOVN6N0lyYzFYY2Q1RlVTUUVLYw?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRThJZThYeHA0bUlJaEtUa0ZnSnExZDhrZ0hWV2lqblhsZ3d5dEQ0aVc1eXYwU1oyakZUVTZXRVZLLVJDNVBVUGlCM3FFSGpUMnk1MEFoZ00tRlhDb09qNVlJMEd1RzFwYlc2VnE2WTZrLWNaX3BSbGI1by00NmllNDU2THJLZjBLSmo2Nmd4cDBEWnlGODhEZmZTcWhJQ011Z2xrSHFDNnJZc0tpc0xmN1FQOEJUUnlYdF9vQjBxbEF1SHFTcG96TU9FcjRYamJVN0ZCR2VCYVA3ZGp5ZURhMTllU050Q3FaalJMRg?oc=5",
    "source": "Morningstar Australia",
-   "date": "2026-10-28T21:38:25.000Z",
+   "date": "2026-10-28T21:22:59.000Z",
    "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "SpaceX’s biggest stock unlocks are still ahead",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xYWVXNHFwbXN0Qnd6NG1jV2p3VVpHS1RfckRJSU80OXF2OFVla2o5YUlFLXY3SnpKNkxHblU0TWdwT3NWZUs4aUk5NTNTMHYzcl82Z0lvVEZjb05aUURVRG1PX2V3WGtTVDVGYW5BS1Q2bDg?oc=5",
+   "source": "Protos | Informed crypto news",
+   "date": "2026-10-28T18:58:59.000Z",
+   "q": "SpaceX SPCX lock-up"
   },
   {
    "title": "SpaceX stock slides back toward $140 as smaller space names leave it behind",
@@ -345,13 +352,6 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQalZpc2l1X0cxaUZWeXRNYXVaRU5nX0VvYVZldXMtSHkxR1JWZWQyaTBwbl9MTlAzRkNaTGh2c3pjclNnMjdfZFpSandnOFhWRE50ZUJDa2N5cFk3ZjRDZFoxY3RYUmNKTnlSM3Qwc0UxQllMSGhPdU1CQmJDbGxGajV0TlZhY09mSEw2ekJWNUNFbWNIRFlvT3dqeG54M0pRS0xYWjJR?oc=5",
    "source": "Yahoo Finance",
    "date": "2026-10-27T10:50:00.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Commentary: Who would gain from a merger of Musk's SpaceX and Musk's Tesla? Take a wild guess",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYkRSZTVmZWRLejBGVlpEZW1tUHFEZnVBY3l4SUpxVWZFano1RVdvczhZelV1VHNjX3pzSTBJdlBIS1AwbHZ5UG9Ga1hjNmFVWHV0WXl1eGdoS1kzdnlJaFU4R0FnbmVGVWFkakxJSVItbE5MTGlobW92THhUNHMtbWtDc1ZxdW43WC1oVlpLckxPVlhhTVBPbDgwRkhkbERseVFhWjBiNFN5OHpqVWpCdVJxREZ2RUhIV3lnTEZYVGo2QkkyQUhn?oc=5",
-   "source": "Los Angeles Times",
-   "date": "2026-10-27T10:00:00.000Z",
    "q": "Tesla SpaceX merger"
   }
  ],
