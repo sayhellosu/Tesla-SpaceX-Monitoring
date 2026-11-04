@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T01:41:09.030Z",
+ "updated": "2026-11-04T02:35:56.282Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -200,9 +200,9 @@
   },
   {
    "title": "Here's What SpaceX Stock Will Be Worth by 2027 if Elon Musk's $1 Trillion Revenue Call Is Correct",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVURPU3YxdjhJSGp4YWhPM1loeHJxczdSdjczb2NfT0lSYVVod0Z5dWRsS3VjenFZQ3J0d21yQXBoQi1wUnFaMkxQZXMyZFk1V1NXdDA3N1JuVXYzLVRjSWVXVS1RNmFJdUZjdHJxbHY1cC01VHJITmdELThBSkNUMEFsUWV1R0JlcFBhSlZ1MUp2ckFlbjFkTQ?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-03T21:18:00.000Z",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak82Rk9uWHNGdlk1N3pmQXpBdzFBUTNMOGJIaEYtYS1uVGtqTkpCS1daRGtnNF9xd0xLSktFQk9tek55UFNRMXl2VHpFWXZpVWVIMVBYaWdub2ZOWW44cThlX01CdndMcmpub1ZrYXltSk1WYUxSYWFBT2tuTVpHLVJPWTlYLTU4OUJTOWE0YjdjWDhud0lReUNB?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-03T21:38:00.000Z",
    "q": "SpaceX SPCX earnings"
   },
   {
@@ -225,6 +225,13 @@
    "source": "Stocks Down Under",
    "date": "2026-11-03T19:00:34.000Z",
    "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX Just Delivered a Monster Quarter, but the Stock Is Still Down 38% From Its High. The Reasons Are Obvious.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQS2VneEE3d1AxX2J0SE1CbDFTa2xlc2hfSmhNNmpsNHRGTkpVOTZBZkIzZ3FnNlVyX3NYeEMwV3MxWTIzVEtIWGktd0JITEFUOVQ4czdtSHpuQk5oYmowYnRpN2luQ25LSGtmaEQ5NWF2ZFVKTTVEbDBKUDlQU2tpbVRvTHZYSWtGU1F1S2hNYnVyNmdLajd6TEl6WnNLSzY3dVBYWQ?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-03T16:20:00.000Z",
+   "q": "SpaceX SPCX lock-up"
   },
   {
    "title": "SpaceX Stock (SPCX) Moved Up by 3.11% on Nov 3: A Full Analysis",
@@ -351,13 +358,6 @@
    "source": "Yahoo Finance",
    "date": "2026-11-02T18:31:18.000Z",
    "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "SpaceX Just Changed What Investors Are Really Buying (NASDAQ:SPCX)",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUlDanpxYzhSMmdzU19peW0yLVJsa3hFUElELWtNdWVPVzdKTUcxQ0RRaEFPTll5UXdXcXZqM2VOQm1ZaGFmNFFWdGZvSHlGTnhRbXNpQ1JtWnpSR1Zmb0hlXzljbzFmRkVRS0o5bWpMdDhCVFlobnJOTWR2TF82amhIbEw4Q0xacnl4TS1DbTBBMmdvY05jUg?oc=5",
-   "source": "Seeking Alpha",
-   "date": "2026-11-02T17:44:09.000Z",
-   "q": "SpaceX SPCX earnings"
   }
  ],
  "prices": {
@@ -880,7 +880,7 @@
    {
     "date": "2026-11-03",
     "close": 398.5,
-    "high": 406.49
+    "high": 406.5
    }
   ],
   "SPCX": [
@@ -1382,7 +1382,7 @@
    {
     "date": "2026-11-03",
     "close": 141.31,
-    "high": 142.72
+    "high": 142.74
    }
   ]
  }
