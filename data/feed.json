@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T19:26:23.128Z",
+ "updated": "2026-11-06T01:34:25.866Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -185,17 +185,52 @@
  ],
  "news": [
   {
-   "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5",
-   "source": "Reuters",
-   "date": "2026-11-05T19:19:43.000Z",
+   "title": "Elon Musk's Tesla and SpaceX lose over $420 billion in combined market cap after midterms",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVlBX0FCZGw4ZnNTUlRoSU5wSjJRWllFQ2JTZjBHNy1CQ0VXNWZWb1Y1V2dDWXhLQWIxZC1hNG00U0xXUjZIdHV6U0FaWS1hN1BURXBNd2g4Q0RoT0lFX21qMlNrQTkwelZndmExbGpSdlhlQ24taDl4QXpTQkNmVlJZc3FaajZl0gGOAUFVX3lxTE9peU5XOFhISzIwSnNNaGtiR0Iya1JqWVNFcXgyQXVPVXNubjAyMXVYMUR2aHd1MWRnZEhmLXI1MnRONmk3SHIzUGtOZnQ1U3JFdjBkSnYxNHdsQTVSQnBGWmVwUGxSZWJIYW1JZURVYUxsa2prV1VXeUs1VW5CU0pISHRtYVUzLV9LSTNyTEE?oc=5",
+   "source": "CNBC",
+   "date": "2026-11-05T21:42:17.000Z",
    "q": "Tesla SpaceX merger"
   },
   {
-   "title": "Tesla Shares Tumble Again in Deepening Post-Election Slump",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVFh4NVlGWFp6NXZ2OXhVdGRKRjdQSmpBbXJHNm9ZWmIwQXBLVElrWDBNYm9jLVI3NEV3bE5YVVpzR3lEcXBDOTVlWTZNYk8xYXZPNjNTYll5VXNrbmtRazdrcVc0TzlCMFF0LXNWTElZNnctbm5ycVF0Q3dMQzFkSzRQRE80YjdudEo3bVB4WlFlbzRVUXlpQk1FZHRucXlNaG91UGNUc2xieEhZbXc?oc=5",
-   "source": "Bloomberg.com",
-   "date": "2026-11-05T17:06:14.000Z",
+   "title": "Investors have dumped Tesla and SpaceX stock since the blue wave election",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTi15NUt3OWJlcTlscTNDcUd0RnpGMXpIVDh3bVNWcHFWVDdjVFcxNEJuMlZvMTd3WjR3V1VIVVhvaVQ4c21ubEZtWDVnVk41OGtLYi1IUkRSb0t0cWFONk5mdmNmV2lldXhHZzR2LV8zb19tdGNCazBqMnNDYXNraGxjT3BzNVNoa0hLNTlTUjFZQQ?oc=5",
+   "source": "Business Insider",
+   "date": "2026-11-05T21:32:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI build-out",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3FPNFVNS29WSDJ6eFFqa3kwc0p0ZUZUbm5rbUp6M3poX3ZYNjFwMVR3bXJ6Tko4c0Y2ZUpGZ202LU1pQlc0cEVvQS01Z0RUMVVxemNzcGlIcmdaTkdIWjlrYlpaUFRxYXA5aTBPVWRCRkdSR3VsVjkwREJxLUt0elduNmdESVFQbWphX1RTQ3p1YkdsV1pneXAtYmlCcVgzZUFobGhZMmZxTl9CV1FVSEY0Z1k5dEk5M2U3d0hFQXI3RktJS1FKT2pYdjBFei1maGpjTEFNdjRmWTRIUGxLaVRmN2YtTlE?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-05T21:03:24.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX Stock (SPCX) Is Plunging. Why Investors Are Scared Today – November 5, 2026",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1JvOGZZdmNGRnZzTE9STGtBZjFlVmJ5VGZ2N291UVJDM2lXNlRhLTRRdXprSk9xa3hrTDMxWHFDOG9uYjBsbVBwUXM2LWhwS0YwTUdzNnhDX0F2a29aV3hBcGl5SkVqT05vNDY4ZXJwS2huTUotTnY1LXBTQW9wMTRrc3ZfVzZzU3REWGlscW5Wc0NEQXpveXFDVmctcmp0Z01wMXlIVUItWWhQazA2NjJlcHg?oc=5",
+   "source": "TipRanks",
+   "date": "2026-11-05T20:14:53.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5",
+   "source": "Reuters",
+   "date": "2026-11-05T19:53:31.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Investors are dumping Tesla and SpaceX stock after the blue wave election",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmxTQXZ4V1BtYXlxMzBQTlFKdzVibU5DcjhYX29RUk1KTXRwMWtLanR3VmJZYnVlZUFPSmRSalpYWklMYXJPZkJxeU1YYjJvN1FfbGhtQjdRaEdfWjFPeE5LUXotb0daX0M5QXZNWUplcmY3cDZrdXhxYTNxYXJnaGd3d3paSEo5S2RrN19GUk1qQWZfbFVEZldab2xpNnNHbGw4NmJWVHJFc0dVVjhKeXlmbUlzTVJqcXBhRjRqM1BiUQ?oc=5",
+   "source": "Business Insider Africa",
+   "date": "2026-11-05T19:29:21.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "If You Invested $1,000 in Tesla at Its 2010 IPO, Here’s What You’d Have Today",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNk9YR2w5YUdXWXBOeUEwX3ZpQ2VodzJORzJLcHRGTU8xOTJWVHZWc1Q3cHVZdUxsYU42bW9xeDRmcDl4b1VMSmhuQ3Q1TlhNMjNwQlRKa21jV2ozeGtzZnlzM2xNeUFjSlFsb0I4MVhreGFfZHIzWm1lYklZUGFkZWFfdEEwcHM1cVE4cVBDdGlURWw1dmRPZVhpSk1uTEZQSVpmcF9xajlmTzBkQUNkS2VITWh3OEU?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-05T19:17:00.000Z",
    "q": "Tesla TSLA earnings"
   },
   {
@@ -213,25 +248,11 @@
    "q": "Tesla TSLA earnings"
   },
   {
-   "title": "SpaceX, Tesla stocks tumble as Democratic sweep raises questions on merger prospects, AI build-out",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQ3FPNFVNS29WSDJ6eFFqa3kwc0p0ZUZUbm5rbUp6M3poX3ZYNjFwMVR3bXJ6Tko4c0Y2ZUpGZ202LU1pQlc0cEVvQS01Z0RUMVVxemNzcGlIcmdaTkdIWjlrYlpaUFRxYXA5aTBPVWRCRkdSR3VsVjkwREJxLUt0elduNmdESVFQbWphX1RTQ3p1YkdsV1pneXAtYmlCcVgzZUFobGhZMmZxTl9CV1FVSEY0Z1k5dEk5M2U3d0hFQXI3RktJS1FKT2pYdjBFei1maGpjTEFNdjRmWTRIUGxLaVRmN2YtTlE?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-05T15:53:06.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
    "title": "Wall Street Is Being Asked to Take Part of SpaceX’s $40 Billion AI Bet",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd3hhOEtTU2Y4MzYzUFFYYUwxcW1jbldqQjBMV2pxQ1V2aEJLbzhLWFdGUF9vM3hOcmNjTEo2SWQ1ZWpCT3ptREk2X0pnVzNPWVlidzB0YWVqS1J6UzZPZ2tHQVY4cUtwTFc4TFVHRVV2akVkN0dFNE9vNndnQjVIb0dsTkl5NkZQanlDWGV1djhfQkRhYWluNE1XU0c1ejRBUzlWOTlMSGJwUTlvS3k0aDBn?oc=5",
    "source": "24/7 Wall St.",
    "date": "2026-11-05T15:03:00.000Z",
    "q": "SpaceX SPCX lock-up"
-  },
-  {
-   "title": "Musk's $446 Million Midterm Gamble Backfires as Tesla and SpaceX Shed $120 Billion",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6cjA5X1VBcHdUVllrSnZDdGpZTWRJOWVJZUxBSWFQSlZUcFlkSnFBdmpDdFU4VkpoS28telRTTmtVUGZmcVd4cFgxWVlQUUpSTDBId0VaVnBUVHI0OGFOMFZnaHBZM1Z0djVTSGtjc2EtazMwQ0E?oc=5",
-   "source": "BigGo Finance",
-   "date": "2026-11-05T14:25:00.000Z",
-   "q": "Tesla SpaceX merger"
   },
   {
    "title": "SpaceX: Cellular, Launch, And AI At 10x Fair Value (NASDAQ:SPCX)",
@@ -276,24 +297,17 @@
    "q": "Tesla TSLA earnings"
   },
   {
+   "title": "Arthur Hayes Says SpaceX Could Face A Massive Share Supply Shock, Anthropic And OpenAI May Be Next — And Bitcoin And Crypto Will Come Out ‘Glorious’",
+   "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObF9sWTVtanM2Z2ZHRFVURkJxWGpWekZoX0dPd3JrbDRkMmZLQW9IcGdrUHJ6QjVOTERzU1RaZUNYZk9Dd25hcXE1TzVXeGRqNHNyVHhwU2hmNWlIa09RXzV4c3BhLWZSdEl3blBTRzUxN21WblEtNC14eldleGFRSjFqQ1NDVEh0WmluUHZoYXAwOFBlbUdLMHFqQ3FDaC1pVWFGVzhfYW1nMzZVVkJocUNBcDVZRTFOUlpDZjBEbHlrd0JoWDd2MzJSU3FCQzVEaVRfM2pWTlpIcmVQbnVaSWxVLU5RVzdoYldHRlljX2lzQVg5M3Ata2lwR2loZHI5NXkxVTZhVW9OMk15UU1JSFozaUFlWkFvRC1Ba0NfNEpQM05vWUdKSF91YnY?oc=5",
+   "source": "TradingView",
+   "date": "2026-11-05T09:53:26.000Z",
+   "q": "SpaceX SPCX lock-up"
+  },
+  {
    "title": "Musk Faces Democrats’ Scrutiny: 2 Camps of Tech CEOs [2026]",
    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkNRamh6Y282dDBaNHh5Q01Ka0tabWRHZjZSdG5YdVhWVkN0V0Q0Vmc0Q21oMkNhWnMybEduVG5sNGF0RXZ2U3FZbXRfVm5RUHA2bEw5TXVsV2EwS2JXREc1TjFHNGxPdmJfVjIzQ3p1bzF0cGpjbkxWeDIwVnVvUFgyTU1hRm9oS183NHUtR3BfNjg?oc=5",
    "source": "shattered.io",
    "date": "2026-11-05T08:43:03.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRHFBcDFldmxyZHp2LTB2Z0hUM0R6Y0l2akcyU1NjVXN2YW9wYVVTRFUtdnRIM1JTd1llcDVKcFhobkowNUZxNVlYSE1NZ2Z6OUE?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-05T08:31:12.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "The merger between Tesla and SpaceX is expected to proceed in the so-called 'reverse triangular merg..",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRRFRxSzgxVkp1WGF1ZVMwNHNoUURNaDNaRC03U0ZFM0lBY1FXazlSWktxbjBsRFhZVVB3WF9MRVQyWTgxZlFZc21vN2pzTFk?oc=5",
-   "source": "매일경제",
-   "date": "2026-11-05T08:16:17.000Z",
    "q": "Tesla SpaceX merger"
   },
   {
@@ -343,20 +357,6 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYm8tMXlYSDB5bnBwYUdUQklTcDhIQWRITXZtamlod0I1elRBdkhMWW9EbHJEalhRN0NFV21uSTdsVjJoUXNUVUFIRGZ3ekUxckJ2STE3cHRKcWREMVpkS21LMXYwY3BwWFU3RGFoa3h1WXhlTW9hZHVfai11Y3VSSNIBlAFBVV95cUxQUE9WbEJkeGUxLWo0Y0w3c2tnbk1sTnowNHMtSklkdHhqa2lCQXFXM2h4eFpwNHRYcXJXTGkzZ3lxTldQR0ZfRlhWZEFQT2VJdnY1YjFUdC1PbldvTS1obV9TWHMyZTdxMGlIc2ZfNGRDVHNHNTNFaDQzRE56cVZwOVZ0NEp1eUIxNWQyZnIzMGhyTTNk?oc=5",
    "source": "Chosunbiz",
    "date": "2026-11-04T22:26:00.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Can Elon Musk’s Tesla and SpaceX merger still leave the launchpad?",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXBLZTVuOVVSbEMzS1Z2WkNBc1dJVVphV2k5NUNwSWxkXzNoZnhtVVlRTUR0NnFMRkVNZl95bFdPTlcyWkpHblAycThRSXB5M2Q0aDlaYXh0ZkR3b1YtcDZ5QXloRlFZaHBrZ3JLU2FYSkIxeE5VMHhFUDZ6MWxDOFpTaGpKTk5FZkdYazlhVmstUUg4dkw1dTFucDA1anRvWXhSellKOXdsQS0zMUE3V0NSY1RsZw?oc=5",
-   "source": "The Times",
-   "date": "2026-11-04T22:20:00.000Z",
-   "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Tesla-SpaceX merger: Musk's $3.7 trillion plan faces a 2027 deadline",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQUM1OEtmU2hqZkF2NkI2T3JwbnM3bDlpdFpjS2hZeno1U3RwSkZnTTJDSDBXclc4c3p0VjEtSzJiT3U0eS1NeGdHaVJtaFhsMWtVREgwczdtaGhMUVNkcHZNdThEMHFYLWNUVTRHUFhPMGJxNVFORXBlaVFvcDhVbmZsaWNDeDFBMmZiM1UyXzg?oc=5",
-   "source": "www.equiti.com",
-   "date": "2026-11-04T22:15:48.000Z",
    "q": "Tesla SpaceX merger"
   }
  ],
@@ -889,7 +889,7 @@
    },
    {
     "date": "2026-11-05",
-    "close": 341.19,
+    "close": 343.69,
     "high": 374.23
    }
   ],
@@ -1401,7 +1401,7 @@
    },
    {
     "date": "2026-11-05",
-    "close": 125.23,
+    "close": 123.62,
     "high": 131.87
    }
   ]
