@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T02:08:01.708Z",
+ "updated": "2026-11-11T02:55:46.863Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -185,6 +185,13 @@
  ],
  "news": [
   {
+   "title": "SPCX Stock Faces Another Lockup Expiry Today – Here’s How It Fared After Previous Unlocks",
+   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQWVBWUktIZEEtQnhwZHZSSFlybEJmdU5GX1lvWGdHZjVMUTZ0M0I1Mi04T3BYS2lBT0tOcHhHU3p4YkxpU0RLdmQ4czFSdjEzTEd0UmlIMmVqU2JVNjNOT0FHYi05c3RqcUpQenYyTDRlZVVpNWJQODlqbGpVaDVaSmNndTJId3NEYmN4cXo5THZNbFh3SmlpM0tMQl9aeVZsSFBBY0szaUMwVzUyYjN6TUJoTWxjckgzNkZQa2drZEZaa3EwMW8wOXgyVzZ4RDRncGZCblBHbUVra1NOYmZvSElNWU5lNHdEUFphNXNDT1oyX2JMSWc?oc=5",
+   "source": "Stocktwits",
+   "date": "2026-11-11T01:19:24.000Z",
+   "q": "SpaceX SPCX lock-up"
+  },
+  {
    "title": "The Musk Midterms Trade: SPCX Flat, TSLA Drops 5% but DOGE Plunges 7%",
    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRHpIZGMybFN3ckFhcElhZnEzQ19PdmxlYUNIRVZ2Y3V4bnpiSEtRYTBxVmNFLVFFeDZMNVJiVktWZTJrYnV0cXhWRENCN0R3elV0MGRPODdKTmhlSmM1aUkzQzVPcVp3QzI3RW5iTUsyUVJGeWp1TXZoaWRQbUhJX2hJajlCSElTZlFqSGFlY3JUWERRN1V0dkpJRjZKSnV3M19QNzY3MHNzZVFkU0FuSEpCUFI3dWlHWUN1c1NZY0tEZw?oc=5",
    "source": "TradingView",
@@ -204,6 +211,13 @@
    "source": "Tesla Oracle",
    "date": "2026-11-10T20:50:05.000Z",
    "q": "Tesla TSLA earnings"
+  },
+  {
+   "title": "Key Information You Need to Know About SpaceX Stock Lockup Expiry",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUGJpdFM5OFRlMlc5ck9QY1NmZm9sWENZX2dPU2w4eVNUS1gteC1yaXlsaC1YRzg2U0FaZFVMNW1Ddlo5SXdfNVJMWGhGbFpld3N0TThVelU1UUl0aTlzWk80WTRnMjNmX2VEZ1FleXBLT3ZMS3Q4RUpQVlhNaGNsQWl3UmtyRHFXcnRNNVlkRFJxaXNiTXJhRXZQaGhmNWJLR1Yxb2FjUDEtRGl1ME1mOWlueTBpWHR5bGpBLXVQRlBxZW8?oc=5",
+   "source": "TradingKey",
+   "date": "2026-11-10T18:51:08.000Z",
+   "q": "SpaceX SPCX lock-up"
   },
   {
    "title": "Sargasso Capital Management Announces Project Kepler: The Case for Combining Tesla & SpaceX",
@@ -297,13 +311,6 @@
    "q": "Tesla SpaceX merger"
   },
   {
-   "title": "Tesla (TSLA) shares skyrocket, what you need to know",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTBCRXNoNXN0ZGRpQVYwUEw0SVdfSFhOQUg0X3pwXy16Y3FoS2hsQkhJVkE2d2EyU19aUXJCRWZOSWNwRmZ1ZW40aE12bURvdl9pTnNfb2tSTmpYZV80M3BLXzhVc3JmVk9sdnhPVVNfRl8xNmo0eWdZMFhYcENyZXhBLU52LUVKNVE4LUFmdnNTdVpUcGh4UmNTT3BQZmJLTGRsT3hLNXF1NmJrV0pEakwzdDNpZURRa0xUQjFVUkhyVm9JRndjZFMyQQ?oc=5",
-   "source": "The Chronicle-Journal",
-   "date": "2026-11-09T20:00:00.000Z",
-   "q": "Tesla TSLA earnings"
-  },
-  {
    "title": "Musk Is Betting Giga Texas on the Two-Seat Cybercab. Only Problem: “Limited Opportunity.”",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemFmS0YxMWpxRmlETm1CNVNUbXNZWEg4R2V1VUhBWnlJYW53T3c0cTdtNjVrLU1UOEpWRnhzTmZUcVRIcVlwN0dJZkpEVTlYeFJZdDVNcl8yVk9LRUVkRXR1azJGWTRTUGE5V1llT19kMWN5Z2FmMVBkTWVFU1pzS0hlYTlIVmZYQVViWTlRNjdCTVhWOXd3ZXJmTElvVTBzR0cwb1ZpZ2hSNG1RWWlz?oc=5",
    "source": "TIKR.com",
@@ -351,13 +358,6 @@
    "source": "TipRanks",
    "date": "2026-11-09T17:35:57.000Z",
    "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "Sargasso Capital Management Announces New Report on Tesla and SpaceX",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTc1c2ZKUThEakp6ZFNkb1lfcjgtcU16UGxzbTgyQWdqSlM4NE02bHZ5Q1R4MTBYMHFSV0szcDA0bkllbTl2WnlCRXJuRXlsVWdGWVhqYnBLQzhnVmZZNGxPQ2xmQVJYd3k0TUtSeWwtNzBDRHY0UGZ2Y2FybTdqOEtGYURsbTItYjB1X2VKT2xSX3l3YUhBcjdfUWhQVzZHd0tURFNlMDQ5eVhUZmc?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-09T17:27:00.000Z",
-   "q": "Tesla SpaceX merger"
   }
  ],
  "prices": {
