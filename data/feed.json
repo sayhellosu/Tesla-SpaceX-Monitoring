@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T04:42:54.360Z",
+ "updated": "2026-11-17T05:11:17.861Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -185,6 +185,13 @@
  ],
  "news": [
   {
+   "title": "Cathie Wood’s $2.2 Billion Bet on Elon Musk Could Soon Become One Giant Stock",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVk54eDJIa3pmLVM2OExvQUlNVFoyTFVNOFR1cWEybHJ2SUZRdnlqeHA1M2RLVW1zU05fdjJQMlFNUDJSS3VHelBSM1lXNDdkMWRmZ1VRbFN2ZldmdUtGQ0lJQlE2WXlPYUR4UUgyWVc1Q1ZFNTZ5bWQxdWJxdU15WU9HZzZ3V1p2UU91ekR3M1hVTHZ6cVJrMGxiazFIRkVyVEtHWDhiUnhoaGRLV3Z6Zy00dlYwa0ZmZXQ4?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-17T03:23:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
    "title": "SpaceX: The Profit Headline Hides Significant Downside (Rating Downgrade) (NASDAQ:SPCX)",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdVhyam05Um1iVFdsTHFKRXdqbWdYRFd2dXpXSDVnTDI3R0lQd1BRdkRIaFdpdWlDY21kcENRUjM3R2REMS1MNWdXQlk4TUdQUTVVZThJMzBnNlN5TXdpWl9DZ0ozQzBGTnZIUXlxYXgtdGNsXzNJRk12bEFBbUxMakhad0xEQzVXb0lZNHlIR0xuRENUU2xGOHl3?oc=5",
    "source": "Seeking Alpha",
@@ -199,25 +206,11 @@
    "q": "Tesla SpaceX merger"
   },
   {
-   "title": "Ontario Teachers’ Pension Plan sold 40% of its SpaceX stake after August lockup lifted",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRVdMR2d6enRoRlJ0YWFzcnF2S09EZVlVWjRvejR1dXptOTBGUUY5SzZfd3UyMXhwS256b1BWLTNCcjktbzFnMzhfbXRQejF5ZXhSSlpxSnFpM3RNcDNHbHlfWE1ucGRFNWlXOTVETzM5RkxCaGR5NW0xWkVTdVlFYnlkM0tVOVItOHc1bUVQYnlvd2hxN2hScTlkVVp2N181RVF4ZTN0RWd4Mkc4UnFOQ1FLUHlSUnl3ZXNKSw?oc=5",
-   "source": "The Globe and Mail",
-   "date": "2026-11-16T21:54:20.000Z",
-   "q": "SpaceX SPCX lock-up"
-  },
-  {
    "title": "Elon Musk SpaceX Tesla Merger Odds Jump To 62% On Kalshi",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTZEcUZlSU9YUkJwWjhsOFBjNkFYYmpHb2h0aUdGdXdKRXQwTmE0RzJOVHRkUkRJQTdmSFljRTZueThlOHl1dW1OaWk1QXRVNnJRNGJReFJ6a3EwSjZySElrdWk5U0dxSk9PVUhZd1V4Zkp1eF95czFRZDkwUlloYTRuVnozanpHZERHNkdqLUZRTW9zaXVBUzNDZw?oc=5",
    "source": "Coinpedia",
    "date": "2026-11-16T20:59:15.000Z",
    "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Key Information You Need to Know About SpaceX Stock Lockup Expiry",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUGJpdFM5OFRlMlc5ck9QY1NmZm9sWENZX2dPU2w4eVNUS1gteC1yaXlsaC1YRzg2U0FaZFVMNW1Ddlo5SXdfNVJMWGhGbFpld3N0TThVelU1UUl0aTlzWk80WTRnMjNmX2VEZ1FleXBLT3ZMS3Q4RUpQVlhNaGNsQWl3UmtyRHFXcnRNNVlkRFJxaXNiTXJhRXZQaGhmNWJLR1Yxb2FjUDEtRGl1ME1mOWlueTBpWHR5bGpBLXVQRlBxZW8?oc=5",
-   "source": "TradingKey",
-   "date": "2026-11-16T20:08:26.000Z",
-   "q": "SpaceX SPCX lock-up"
   },
   {
    "title": "Elon Musk Dreams of Merging Tesla and SpaceX in Move Toward Tech Supremacy",
@@ -267,13 +260,6 @@
    "source": "BigGo Finance",
    "date": "2026-11-16T16:25:00.000Z",
    "q": "Tesla SpaceX merger"
-  },
-  {
-   "title": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRHFBcDFldmxyZHp2LTB2Z0hUM0R6Y0l2akcyU1NjVXN2YW9wYVVTRFUtdnRIM1JTd1llcDVKcFhobkowNUZxNVlYSE1NZ2Z6OUE?oc=5",
-   "source": "Yahoo! Finance Canada",
-   "date": "2026-11-16T16:00:01.000Z",
-   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Lucid Sinks 8% Despite $1.75 Billion Saudi Lifeline; Tesla Falls 3%, Rivian Dips",
@@ -357,6 +343,20 @@
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWTYzV19UYXdTS1JWNFJ3ODlwN3hUdWdyS29maVg3cEZaYURhTmlabWVDVE9nMi1FWGZrdXdjcUxZYTN1V0Vrb3FxYnYwd2gyOXdzeVFQTWJQeEtwajJ1XzlfRmZ1SW4xQXlSWEZYWFVqVThYRzNoUXpseXoxbHlUUU9lRnBFMWhQcFg1RXpJci10WEwyaGpjendFd0MzWVVvc3c2R0NUMDZGbXBrc1hVSW5vZ21ILXI4NWF2VXZCOWY?oc=5",
    "source": "MarketBeat",
    "date": "2026-11-16T11:15:28.000Z",
+   "q": "Tesla TSLA earnings"
+  },
+  {
+   "title": "Tesla, Inc. $TSLA Position Lessened by Vectors Research Management LLC",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVTd5RjJVV29JUzBMSTg0SWl4ZEc4cUJuaEJXbXJOZTBzeFlSd3BISVhzd2hiNnJtU1RENlY1VVJXZzkzNlc3MThGU1lUY0ZxN2FWVERJYmJNWGc0cEg5aHpqS3pXcS1mcllfVTB6ZWJxTDlKWWZlRks4WEVEX2tabWQyOF9Xbk41Tm1xUFZKVWg4X2gxLXdBTVFYOEdYVW5vQTZzXzRtSERiMG9INXBVcHptSWZudVJIZ2lLZm5YZXhndlFQdXY0?oc=5",
+   "source": "MarketBeat",
+   "date": "2026-11-16T11:03:30.000Z",
+   "q": "Tesla TSLA earnings"
+  },
+  {
+   "title": "Tesla, Inc. $TSLA Shares Purchased by Hantz Financial Services Inc.",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaVBwN1Axdnc1bDZGZnd6cTNlbk5ZeWdyMEtCSVA5S3QxZGk3STNoSzVCangzNHR5dzUxZG9KdEpWVVZOVE1RODVPMkJ3WXZISkdoOTdHQ09PYVRJXzNQd1gycTljWm5uUzZqLTctSFgtWW8xU3ZzbW5DR1dQdnpneDJiZmxzZFRqdHotWkVNSi0xaDBkZm9aNXZQUktjanZwdU5VUEl5c01rbklBNWlKb3ZaVXczaHBtU0FCOF9WMlU5dw?oc=5",
+   "source": "MarketBeat",
+   "date": "2026-11-16T09:22:42.000Z",
    "q": "Tesla TSLA earnings"
   }
  ],
