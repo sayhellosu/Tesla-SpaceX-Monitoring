@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:25:28.561Z",
+ "updated": "2026-11-18T02:55:05.034Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -22,6 +22,14 @@
   }
  },
  "filings": [
+  {
+   "co": "Tesla",
+   "form": "DEFA14A",
+   "date": "2026-11-17",
+   "desc": "DEFA14A",
+   "items": "",
+   "url": "https://www.sec.gov/Archives/edgar/data/1318605/000110465926129146/tm267596d13_defa14a.htm"
+  },
   {
    "co": "Tesla",
    "form": "DEFA14A",
@@ -173,17 +181,44 @@
    "desc": "8-K",
    "items": "Material agreement, Agreement terminated, New debt",
    "url": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026063820/tsla-20260929.htm"
-  },
-  {
-   "co": "SpaceX",
-   "form": "8-K",
-   "date": "2026-08-14",
-   "desc": "8-K",
-   "items": "Acquisition completed, Unregistered share sale",
-   "url": "https://www.sec.gov/Archives/edgar/data/1181412/000162828026056945/spcx-20260814.htm"
   }
  ],
  "news": [
+  {
+   "title": "SpaceX (SPCX) Merger Talks Advance As $74 Billion AI Campus Plan Takes Shape",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1NacUg0WXJTQmFJeFhXZGhuVlZWVTRwRkJJaGg3X0RRWWk0LXZRdExvTVZXeWZlMzBNdjJaN0Z0aDlCQUZIRHd1UkxrbFlWUXBLaEFxa1hxY2dwRmk2SUhYLVhGblRQSUl0bUZfTUs2ekpvWlpENkdRZkwzdGh3LTBSSXkxMnlwOFhhUWtYbHZfSE50b0NydTZOdHU?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-18T01:11:00.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX (NASDAQ:SPCX) Shares Up 3.2% - Time to Buy?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM2p4d2V6cEZySlhhVjd3X0xkVUtFMXl0eWQ0TjBuZHplSUkzWGp0S2ZkM2JVQzhWa1lLN2R6YmFlbWVJRjhBWGNzeEliOUpTZ1FRR0dVNV9FNU01NXFDdUVtWHFScTlLUmVzV3kyMi1EdkZIX1JNOGVHRjBEcWcyME4tSG1kUUxicXF6NlF4TTc4djJ1eGhVdTBLdTJtNWczaW5OTmt3?oc=5",
+   "source": "MarketBeat",
+   "date": "2026-11-17T22:25:05.000Z",
+   "q": "SpaceX SPCX lock-up"
+  },
+  {
+   "title": "SpaceX Stock (SPCX) Could Crush Wall Street’s Estimates. Here’s Why",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ180cDcxQm5LVTZoR3BPejBqTEx3Wm9UYU5DYlBqbjJGOFdKak54Z3VqSjFEX0VyQk1hRy1Hak9JT0J2bXA5YllvQnIzRm9GTTF4YXp6VmcwQ1p5V250MVV5TEZLUmEwel9tTHNzN3pPR2dWdGNzSHhpNmhJSW4wbWp0blcwNHFkeV9VVDdfbmhsd2t4MVZHSkxR?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-17T21:07:00.000Z",
+   "q": "SpaceX SPCX earnings"
+  },
+  {
+   "title": "SpaceX-Tesla Merger: A $3.4 Trillion Bet On Breakthroughs That Haven’t Happened (SPCX)",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeU42bEJsdVpmMHhsUUQtX2pWNUQ0S252N25XT1dCbW1wUlU1U0N0Z3p6VGNYbUVfd2cwZTIzcnJJaVRQb2x2OURZTlViT1lHbmd4d2g5dW4yY3pKZ0JLTkpJWkYtczdHbV9xbmJCTk1Vd3psVExRX0xraTJvRTIyYmY3Z05aX3FWUnFkWjNkNGo5cWhPZ25ZUDFoYS10bGlNdmFJUg?oc=5",
+   "source": "Seeking Alpha",
+   "date": "2026-11-17T20:46:15.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Tesla (TSLA) Is Spending €3 Billion To Expand Berlin Cybercab Production",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlg1S0JQanNzNkFta1BnelNua3lLNXJSMktNNkYzbnhDWHFYYzB3RnpCLTZIMkU2dHkyS0otb0wxT3U3XzhFRzNoOGwzYUxFQUd3YXdYZGxvYnJaRGUxckVwMk5PNTRzSkdEcjBWWk90dmNKVmd2aXkwRUk4UU1JSEk0dk9qWHhwSWdiQkZvYk52SWJ2SUxXZmFB?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-17T20:11:32.000Z",
+   "q": "Tesla TSLA earnings"
+  },
   {
    "title": "SpaceX Rises 3% on Report of $4 Billion Bond Sale to Fund NVIDIA Chips; Rocket Lab Falls 3%, AST SpaceMobile Slides 2%",
    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ0JNRGl1Z3pOeDBpck02eXo0U3BLY05SUVNjWG9FclRlNkh6Zk9FMFF5XzkxRktTbHljU1VnYjFFNk9Tdl9TN3E2bksxM1FMLUVmVC1XeG0wRWcwaVBaTl9KZGlrX21nejZnbzNON0JxM2kwNy1Sb2hBSlhxZWtSLXh5RTNiRjNyYmRYR201NUJQUjlRZlRuNVcyNy1MX195dklTWnMxVkZBaEJvTFJZb2ROU2JxTFBYRmRSbkgzWFRCTXpOZl9kRllNbW44M2hRbWdJNGowSmViQ1B3SldJRURZQ1JvZHd6MkFjVQ?oc=5",
@@ -199,18 +234,18 @@
    "q": "Tesla TSLA earnings"
   },
   {
-   "title": "Tesla-SpaceX (NASDAQ: TSLA) (NASDAQ: SPCX) Merger Could Force $100 Billion In Passive Fund Buying",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcjBuY3FoSDlKVklCam1vNk9BUUZHUTN2enY1dmg1OENDUW4wNlFYMC1jcjhNcFhKMGd6aFc5MTQxM1B0X09JN2llaWY0LWM4XzRrdUR5UGFXVVpGeGM1TlVMVlA1YkJ3cFk2Z0lsdDdYM3FENmZWeHNHcV9sMXZKdi10NlF2NDM2SWRnZ0VyRW5kcmo3Y01qVzk5TERIbmVaalRYWFNyZ2dCdFU1bUMwdEVKYld0ZHB3Zk9lUDZyV1Zldl9vRFFjeXI5XzBGcEU2ellMRFR3?oc=5",
-   "source": "Foreign Policy Journal",
-   "date": "2026-11-17T15:47:00.000Z",
-   "q": "Tesla SpaceX merger"
+   "title": "Space Exploration Technologies Corp. (SPCX) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fZjRjeHVwbUZ2NWhxQ0duY2FDcE0ydzJPaExzQkFLN3FLN3NJaGRNaXVCeE9heFRLcnFQUFlPMExvM0k0VkIxNTFvSGw1UWR6UUE?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "date": "2026-11-17T17:04:28.000Z",
+   "q": "SpaceX SPCX earnings"
   },
   {
-   "title": "Cathie Wood Is Betting $1.2 Billion on Tesla",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xQ2RrVHBTM2RlbkZmaldLdFBLTjZmbTdvT2N5WUtnekQyR1VaZU02N0Z5aXFrOUtnZEFlS3M5dTZDeXlYZGltTXpNMk1YV200TnVuZ0dJdEt1UGJyQWkxeGtQSjZ4eldJYnRWeHdQM2cwRFhoRWIyM2tR?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-17T15:06:40.000Z",
-   "q": "Tesla TSLA earnings"
+   "title": "Space Exploration Technologies Corp. (SPCX) Stock Price, News, Quote & History",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mRHFBcDFldmxyZHp2LTB2Z0hUM0R6Y0l2akcyU1NjVXN2YW9wYVVTRFUtdnRIM1JTd1llcDVKcFhobkowNUZxNVlYSE1NZ2Z6OUE?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "date": "2026-11-17T17:03:29.000Z",
+   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Tesla’s (TSLA) Record Q2 Revenue Overshadowed by Heavy R&D Investments",
@@ -221,9 +256,9 @@
   },
   {
    "title": "Elon Musk Says Tesla’s $299 Cybercab Fee Is “Too High”",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmRNU2NpdXk3bEdSa1BWT0poQUJGVkk2dGVpWmh4Z1R4am5qSkItb0pXN1hOYlVpLVhQRWh1RUc5R3B2NmE2VWRSelFGc0FVUDNoMFROVFktYTNGS25TTDdOU1RROVZrcUxXamhFeThCdGFpN2x3U2ctQkp0UTY3Z1RNTVhxZmEyQXhDVXRCUUxNSzQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-17T13:21:21.000Z",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3dkZ3NvN2htNkFTZi1SQzNOUFlWVE5QWG9zM3NaY3NxNlBmbTJGWlVoQmtZN2lmWWlxZ0hGdV9GRXZMRlBFdnJoRFdBc3NiTTNlVXp3ZWI2dXMxUTNzMTcybzFXRXRUQTRWNDkyN3hEeUJvYmdwMllsWHY5d2JQNHlaMkwzRFJkNHRUN0UzakwzZk9uaC1Ba0tn?oc=5",
+   "source": "24/7 Wall St.",
+   "date": "2026-11-17T13:21:00.000Z",
    "q": "Tesla TSLA earnings"
   },
   {
@@ -232,13 +267,6 @@
    "source": "MarketBeat",
    "date": "2026-11-17T13:10:24.000Z",
    "q": "SpaceX SPCX lock-up"
-  },
-  {
-   "title": "SpaceX Stock (SPCX) Could Crush Wall Street’s Estimates. Here’s Why",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaXRlcjczbjBQQTlULXpMbkVvWVlNTW1BX054OXhTZkhEdjFfUFE2RERhU1RBaFkzRnVvTHJoeXpNMjVxYlVaLUJDbkh6MjRoVGtadjlMNUhTX0ZIWEtIcHpObkVfY0NlVnJTcjBLd2RKdUJPTmdMbWZzNlhxNGwwSzZMQ2N2UkxxRFVraHV5dkRCU3BYQ29RQWg1b0hFWHFvZHc?oc=5",
-   "source": "TipRanks",
-   "date": "2026-11-17T13:07:00.000Z",
-   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Tesla, Inc. (TSLA) is Attracting Investor Attention: Here is What You Should Know",
@@ -269,6 +297,13 @@
    "q": "Tesla TSLA earnings"
   },
   {
+   "title": "SpaceX Short Interest Is Around 3% of Estimated Float Heading Into the December Lock-Up Expiration. What Might Happen to the Stock After Dec. 8?",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IQlRKdUI0a0FDZ0FXV25WdFZ5VF9iQTM4c3g4RElmejBTTlA4dm5PMmRHQ2dNOE5SQkJTZmFIQW1RWmVmcHA2S05CZzQ2dkxsRllzRURkNm5GX2VTU1ZDVVBiSmVlenhpTTZFVGpVcndhQVVZOHdReExsNlhXMnc?oc=5",
+   "source": "AOL.com",
+   "date": "2026-11-17T10:28:00.000Z",
+   "q": "SpaceX SPCX lock-up"
+  },
+  {
    "title": "US Stock Futures Edge Lower After Tech Sell-Off — NVDA Earnings, AMD, SPCX, DIS In Focus",
    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdzE5aHpjcnRIZTlvSV90VEhaU2o0b2NkSktXUW0ySTRjSG1KMC1IS2FZWUFkUTN3TlBqMjJJNzVZWURFTmlERXZNS2dOQ3J6c3g5SmxGNXo5eU0wbmt6eFJKQWRydFBvVFhCTHhYUlFfakhVOFJCTnVDS1g0UDVWQV9kdnR0cURfUHQ1anpzdmptNklBaUtpVmJZS0luZko0d0R0NHJYR1FNa0NlWDRGZHlMZjAxX1BFVVFFcFBHZVNqTkdGbUhnWFBfTTdhWm9nSllHVWdzV0FzcDZO?oc=5",
    "source": "TradingView",
@@ -276,39 +311,11 @@
    "q": "SpaceX SPCX earnings"
   },
   {
-   "title": "Own Tesla? You Own A 95% Bet Beyond Cars",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGtvTmNDeWpteWZkQ1RsZnREb2pXYzJEUWVEaHNhdkxMTGRleE5JejMwYkVzS3JuNGVtUTFJSUl4THFPblJMcGhsSm4tOEtQdTY1Sk40Q1JERXFtcTY2NF9oNjFkdUtpRERGOTlhbWk0TDJ1N09ka0QtUWJ2NGljVjZwb1RETVpfOThybDZvYVUzTml1Y3ZxNm5FSnptT05I?oc=5",
-   "source": "Trefis",
-   "date": "2026-11-17T10:14:36.000Z",
-   "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "SpaceX Short Interest Is Around 3% of Estimated Float Heading Into the December Lock-Up Expiration. What Might Happen to the Stock After Dec. 8?",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN3UwakZfNTJmZ2dxZUVUSm5EVXh2QVlmZURUQmtuMjZNTFAtc01VQ0hFbXdhejBLYXV5Q2hmY2dvM245SlNCVWVGVmlWSnFsUUt4ZGpSX0RDcHZIQjRydUhiMzJfYk5TMGRYdVBsTnczeUlfQksxQ3pGU082R19WcUk5NEw4Y0hha256ck5CdEFCbUM2ZlZEbg?oc=5",
-   "source": "The Motley Fool",
-   "date": "2026-11-17T10:08:00.000Z",
-   "q": "SpaceX SPCX lock-up"
-  },
-  {
    "title": "Elon Musk Plans $10.1 Billion \"Project Crystal Sun\" Tesla Factory Near Houston. Says the Math on Solar Power Is \"Obvious and Trivial\"",
    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQVGNPSnF4UUpSX0Q5c3dVZ1cyUGJTd2t3SW1WMlU1NjJfaDJoZUNsNHBLLWh0Y0hnYUw4QTBpYS1lam8xMmRWVTJWMEt3R19QWmR6MlFDM1VmYjRPRUNBc09Bc21DWk8weVhMTU1Yb3hmWTRVQkJQXy1SSm94Nmt6dnFZaEkzUlNoLXBRNlhqTklxbnRFeDN4Y3czN3RjUDEwZzVaQkFvOTB6VG95Qy1Gc056Z3JTUXlXOGZkd1FZcjduNlp4Z0lEN3cxbzE4VTk4SG12ZkxmMG1IRE9qRFJCX3JiQWJvQTUzSkczVzNEZ0tJeTBkc25jV2NJSUZ5RER6?oc=5",
    "source": "24/7 Wall St.",
    "date": "2026-11-17T09:27:00.000Z",
    "q": "Tesla TSLA earnings"
-  },
-  {
-   "title": "Cathie Wood sells $85M in Nvidia stock before earnings, buys SpaceX",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVmlEVUU0NzZhQkFzb0NtWVdhRy1hNjN0NEdhLUs0aFJkLTFXdjlmNWRJdE5Hdm5uQmF4VnlUVFpuSzZKdTc4TnFzbW9aUzNYTkFZVl9DcVIxYTg4NE1sbFRIZmRTM21rRGNfXzh1bDdnbVlkQU9RUUZLRzNneG0wek9kWnhGS0tleU5WemxnMzlMUUhERmRqQXR5SjQ?oc=5",
-   "source": "Invezz",
-   "date": "2026-11-17T08:51:29.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "Not SpaceX: SPX Technologies Could Be the Better Way to Profit From Increased Scrutiny Over AI Infrastructure Spending",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTElNUkhIN2xqbHJtRGVTV2hQQi1OMjZwUjBvRmtmS1BJSlZ5TG1Rd1Q5TXRzNTZZbU0xcnk2V0MxR3RuZUVERVFBZGFVUVNCWkpkOHQ5ZXFaZkh6ZWZoWG4xWl9SMk5sOV9KcGNPZWRoaHVzWWpoNGFTNFl0VHFncnNrankxT1lWZG1yRGl6NDJBcENsMGJtbHVVUUVvUQ?oc=5",
-   "source": "Yahoo Finance",
-   "date": "2026-11-17T08:25:02.000Z",
-   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "Key facts: Tesla Falls on SpaceX Talks; Grünheide, Cybercab Offer",
@@ -332,11 +339,11 @@
    "q": "SpaceX SPCX earnings"
   },
   {
-   "title": "Cathie Wood’s $2.2 Billion Bet on Elon Musk Could Soon Become One Giant Stock",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVk54eDJIa3pmLVM2OExvQUlNVFoyTFVNOFR1cWEybHJ2SUZRdnlqeHA1M2RLVW1zU05fdjJQMlFNUDJSS3VHelBSM1lXNDdkMWRmZ1VRbFN2ZldmdUtGQ0lJQlE2WXlPYUR4UUgyWVc1Q1ZFNTZ5bWQxdWJxdU15WU9HZzZ3V1p2UU91ekR3M1hVTHZ6cVJrMGxiazFIRkVyVEtHWDhiUnhoaGRLV3Z6Zy00dlYwa0ZmZXQ4?oc=5",
-   "source": "24/7 Wall St.",
-   "date": "2026-11-17T03:23:00.000Z",
-   "q": "Tesla SpaceX merger"
+   "title": "SPCX Stock Dethrones Intel As Nvidia’s Biggest Holding — Druckenmiller Buys In And Tepper Ups His Stake Over 1,600%",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX01yOEN1TGxCekQ5dld3ZjJDWjlQMGVzRy1TNk9BRi1KaTVqWjRxczNid0Z1dE4yNTdzMmViNGpUaklaSy1TUXFPXy1xUHVyb0tnRnIwZ1U3MENqLWtHX0h0emFYVFZ4ZmlFaDlROGVtUl9JQ09JT2JsSG8xNzdSNzdCRHNpYkdYRjdDS0ZqbWIwSmdJN19qN3MwMVpGTU0?oc=5",
+   "source": "Yahoo Finance",
+   "date": "2026-11-17T03:45:00.000Z",
+   "q": "SpaceX SPCX earnings"
   },
   {
    "title": "SpaceX: The Profit Headline Hides Significant Downside (Rating Downgrade) (NASDAQ:SPCX)",
@@ -351,13 +358,6 @@
    "source": "The Globe and Mail",
    "date": "2026-11-16T21:54:20.000Z",
    "q": "SpaceX SPCX lock-up"
-  },
-  {
-   "title": "Elon Musk SpaceX Tesla Merger Odds Jump To 62% On Kalshi",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcTZEcUZlSU9YUkJwWjhsOFBjNkFYYmpHb2h0aUdGdXdKRXQwTmE0RzJOVHRkUkRJQTdmSFljRTZueThlOHl1dW1OaWk1QXRVNnJRNGJReFJ6a3EwSjZySElrdWk5U0dxSk9PVUhZd1V4Zkp1eF95czFRZDkwUlloYTRuVnozanpHZERHNkdqLUZRTW9zaXVBUzNDZw?oc=5",
-   "source": "Coinpedia",
-   "date": "2026-11-16T20:59:15.000Z",
-   "q": "Tesla SpaceX merger"
   }
  ],
  "prices": {
@@ -929,7 +929,7 @@
    },
    {
     "date": "2026-11-17",
-    "close": 379.1,
+    "close": 380.11,
     "high": 382.84
    }
   ],
@@ -1481,7 +1481,7 @@
    },
    {
     "date": "2026-11-17",
-    "close": 141.09,
+    "close": 141.7,
     "high": 142.11
    }
   ]
