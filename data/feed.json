@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T05:34:39.639Z",
+ "updated": "2026-11-24T06:17:09.278Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -185,10 +185,38 @@
  ],
  "news": [
   {
-   "title": "SpaceX and Tesla entrusts five directors for merger talks, FT reports By Reuters",
+   "title": "SpaceX, Tesla directors negotiate potential $3.5 trillion merger, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQazM4SGlaZDQ0U243TWxic3pYUjV3ZzFiTlJjOF9YVm5hOEtaQy15b29ZMTVVcmtVZ1B1dGp6UDNCb01WUEVlQnRRaF8tX25ndV9GVVRvU2lTQy1ybXRweG1oTVNBekdTMjVqSnZnZlQ5S2JXTmtyaHgxeWJRSlBfeXdZMmhVYkZjdFlqSTZfSTRNTmR6UFBVV3ctQjM5UFBvZkRQTl84ei1fVi1IbnlyT2E0d2FFUzBrM1hqa19wbkJrZ0Jpb1U0YQ?oc=5",
+   "source": "Investing.com",
+   "date": "2026-11-24T05:57:12.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "Tesla And SpaceX Name Directors For Merger Talks",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGhLNzBGZXdJVk1kSC1nOG1fV3p1MFJFR1Y0ajVxRy1kQjNTZjhRNFNNTWlMbThWeHBqdDRvRWlMNWp3dWVYd2tVaDVRVGJlZ1gxcnh1TkdpdURfam5waHBxWUZRVmhwbVNVdHNldWJaSHY5WGRiU3ROVXJid0UtOTAxbw?oc=5",
+   "source": "Finimize",
+   "date": "2026-11-24T05:49:33.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports By Reuters",
    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGIxaDlqcWVBUGpnSXp0aHFYeXdCWjZhTW15TXAtbGp4bzhuTGR2dHN5X2FaQ0ZVRUNMdVFfcGczQ1Jic1pDSm80MzNOYWwtOFI2UlhjYU1RNmJMUlJ2VlA4enk4YmdSRFRNdWNPSkVYbXdLdGJwOS11RlFJQnlReC1iSmxQWEo0LVJqMnhjeTVIWWFJOXIxQ2R3dmd6RmYwa1c1U3ZHaVZIVVlxdmVWR0RST052RGY0RnA5aUxEdnJzdEU?oc=5",
    "source": "Investing.com",
-   "date": "2026-11-24T05:28:38.000Z",
+   "date": "2026-11-24T05:48:45.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX, Tesla appoint five directors to guide merger talks, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZHBsZmFaOS1sUTc3b253UjNtei1jUjFieHl6U0R3RF9ScGRpNTNkNVNabkFIVk96XzRQWk1MSUM0VnpEVnJoN3NwcWNJcGhPN1VMS1FoNkFNS1A0dFpZVGdnWFJrUk4wZVBKV1BpRXYxWnBWRFdDNGVDWXE0RmY3OW42YmFRWDdSN1k1bTdGTkM1c2lzS0hESlRHX3psMVczRC1ucFVKZUQybjU4NGwtUE50UHBYWWFmRGZ3R2JRRzhkMldveGpncXBKeVI3UGtQVnVDTkNwdFNpbllJU3Z5aXlTdnBobjZKNy1WNXhnMzFoMVhacGJrMnluMFc?oc=5",
+   "source": "The Lufkin Daily News",
+   "date": "2026-11-24T05:47:12.000Z",
+   "q": "Tesla SpaceX merger"
+  },
+  {
+   "title": "SpaceX and Tesla in talks for potential $3.5T merger: FT",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdjBvck42akVEYkhlbl92d3ZkaXJnX2lGUnUxSzN3WUlXSldlaFpWNjBJV0o1bFFIc3l5bjBFV050UVVhRVI3QzNYRUJqcGhBbTkxckM5cmRpc1Y4MVZKT1MxbEtiS0pMTlJlYldSSXRZa0RzSHZWSHFKdnlfdVdZV3VZT3JoR3RG?oc=5",
+   "source": "Crypto Briefing",
+   "date": "2026-11-24T05:37:23.000Z",
    "q": "Tesla SpaceX merger"
   },
   {
@@ -325,39 +353,11 @@
    "q": "SpaceX SPCX earnings"
   },
   {
-   "title": "Musk Agrees Automakers Must License FSD to “Survive Past the Next Decade.” GM Is Hunting for a Self-Driving CEO",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNTBJU1JMVkxveWtjMU1mckJtS2c4UUhQXzBaMTczalpia29qT2U0WTBSUVc5NHBobjVBUER4WERvU1Nid2haWXpRbFZHMF83akM3T0JNUEdoTXlkOWpfQXRVV0xCT2xRWFZxbkpvdUtBbjBjTmxpVUd1N3V4NnVHaGI2UXB2Qm05Y3FnNmVzVmpOM0VMM1Rac2w3WGFSVVA4TkZ0eEZuZ2NZaEM5SWJnbXN2M1pDVk9PNGZjZ2t3cER3VEdZWlV3OElHcU10bVE?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-23T12:36:11.000Z",
-   "q": "Tesla TSLA earnings"
-  },
-  {
    "title": "SpaceX Lock-Up Expiration Could Trigger Stock Price Volatility",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHJuYjdJQURSYkdLM3ZEa0l0T0JRLUU4YVFtdTFYRjFTLTV3V0pVdFFOamZuVl9FWEVaa1c4MzBEeWxZblVGa0cxM2JLdkE4MEUwUWZRVThSeHA3Y2VxZ1hURHVfbU5hR0JvWTBQamxBTnQwZmZKcjhlTks2VDBzbm1BNVQzd3doTC03VUVfd0JueW42QVlPeWJVOA?oc=5",
    "source": "Intellectia AI",
    "date": "2026-11-23T11:32:15.000Z",
    "q": "SpaceX SPCX lock-up"
-  },
-  {
-   "title": "Prediction: SpaceX’s Orbital Compute Beats Earth’s on Cost “Within the Next Two Years,” Says Cathie Wood",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU2JkVzk1aFJRVmdkUWd2TU05d29VRVdvb1RGcmttNERMbTN5dTNhX1VDbWtxakx3UGRnV2RoNkpsd1JNRmNHWmprckotYm5HR1FodEFwM1ZzTFFkcXJJcDRndmFsNXRRSXFuLVh0N0VJcEp4ZVg3cmZ3N1FYcjd2TXVCM0c0eVdxc1ZpcHU4T19DSGxDNlZubUxzN1ZYU1ZReTd1MTJIV1RGLUN1VGR5TkVXVnR2VzFRV0ZVd2lYMXdXTGc3OWtfdGZnWXUydnlyb3NZ?oc=5",
-   "source": "TIKR.com",
-   "date": "2026-11-23T11:03:45.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "SpaceX (SPCX) Stock Price Prediction: Earnings beat keeps the setup constructive, but trend confirmation is still missing",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUnBGcVZNTDJjUEdZMTdtRnZhOEhBS3JqcjZJZ2l6WWhvc3Zla2ZyUkNhV0JvRTBiV3V5WFhYNElpV0xIQ2txeUd0emhrc3VGTEw0a0JXOG5BMWFhLWJRRXpWVGpZcEM1YVJwVEtoeFhfVHJSNU41bmdmQkRGTWJxTnlLcTc3TERyM2pNMGVRSXc0S0FEMko3WjhhdUdxOTRQZ2NHdw?oc=5",
-   "source": "Blockchain News",
-   "date": "2026-11-23T09:27:42.000Z",
-   "q": "SpaceX SPCX earnings"
-  },
-  {
-   "title": "Why Did Tesla Stock Fall On Friday?",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNEZGU1J5Z1RuX1FQMTJQZ3NKczN2M1RTbDBRSzlveGhwR1gzLWpnenZaNUtESmIxem5XWkdsRzRGeFl0Y2FoZ1Z0NnJrTkliQmZ0dVE4dHBQWm1MbEt0Vl9GODc0TGp4TktMN2NvdkdWM3BRSDVpcXN1YktRT3lKV3BfQUNCSV9waXlWWHZ0WW5lTlVCR3BSV3lQaw?oc=5",
-   "source": "Trefis",
-   "date": "2026-11-23T08:16:23.000Z",
-   "q": "Tesla TSLA earnings"
   }
  ],
  "prices": {
