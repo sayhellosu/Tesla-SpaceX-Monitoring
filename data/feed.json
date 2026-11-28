@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T03:19:36.149Z",
+ "updated": "2026-11-28T03:33:38.029Z",
  "earnings": {
   "TSLA": {
    "Q3-2026": {
@@ -20,9 +20,9 @@
     "src": "Yahoo Finance"
    },
    "Q4-2026": {
-    "date": "2027-02-09",
-    "estimate": true,
-    "src": "Yahoo Finance"
+    "date": "2027-01-19",
+    "estimate": false,
+    "src": "Nasdaq"
    }
   }
  },
